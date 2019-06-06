@@ -1,6 +1,6 @@
 # magicblocks.io
 Do you dream of making everything smart?  we have the Magic to make your dreams true. Sign up with Magicblocks today to build your internet of things.
-![](Images/magic.jpg)(https://youtu.be/GsGTdvQW6ig)
+![](Images/magic.jpg)
 
 # Unleash the power of magic for the Internet of Things
 The Internet of things is nothing new. It is an evolutionary next step in the machine to machine communication paradigm. With an ever increasing number of 'things' at our disposal the need for connected 'things' has grown rapidly. However with increasing options comes added complexity which introduces steep learning curves and more importantly more confusion. What devices should I use? What cloud platform will best server my interest? I am new to IoT where should I start? Those are the question that would linger in any one who would dare to wonder in to the internet of Things. We, at magicblocks.io have put some magic to work to make the life of both the newcomer and the professional one step easier.
