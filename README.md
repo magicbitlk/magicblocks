@@ -1,7 +1,7 @@
 ![](Images/magic.jpg)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GsGTdvQW6ig
-" target="_blank"><img src="http://img.youtube.com/vi/GsGTdvQW6ig/0.jpg" 
+" target="_blank"><img src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/Screenshot%20(33).png" 
 alt="magicblocks" width="1280" height="720" border="10" /></a>
 
 # Unleash the power of magic for the Internet of Things
