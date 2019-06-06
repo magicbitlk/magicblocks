@@ -18,3 +18,47 @@ magicblocks.io is a launchpad for learning and prototyping your internet of thin
     
 Everything has been designed to make the learning curve as shallow as possible for the newcomer and as flexible as possible for the advanced user. 
 [![](Images/Screenshot%20(33).png)](https://youtu.be/GsGTdvQW6ig)
+
+# Magicblocks Hardware
+![](Images/h3.png)
+
+# IoT Kits
+
+The IoT product range is made up of 
+
+- WiFi, GSM connected controller modules 
+- IoT accessory modules
+- Sensor kits
+
+IoT kits are the latest addition to the magicblocks family designed to be integrated with the magicblocks.io cloud platform. The controller modules come with firmware that start communicating with the cloud immediately after power up. You can easily build your own firmware from the cloud with the 'Code Builder' and download to the controller device with several clicks.
+
+# Multi architecture development boards
+
+Our multi architecture development board is a hardcore learning material where the user can experiment an array of different peripherals. The objective is to expand the horizons of the user with regards to electronics and embedded systems.
+
+- Motherboard with a large set of peripherals and I/O ports 
+- Atmel (Arduino compatible), Microchip based microcontroller plugin cards to learn embedded system development 
+- Communication daughter cards and shields (WiFi, GSM) to learn network communications and how to interact with the cloud
+
+# Robotics development kits
+   ####   Differential Drive Robot
+- Supports both MagicBlocks & Arduino
+- Perform line following, obstacle detection, Maze solving & etc.
+   #### Advanced Development Platform
+- Baseboard comprised of robotic specific peripherals such as high current motor drivers
+- Supports both Atmel & Microchip microcontrollers
+- Can be programmed via both Magicblocks & Arduino IDE
+
+# Magicblocks Cloud Platform
+
+![](Images/h1.png)
+
+![](Images/h2.png)
+
+- Visually connect anything and everything on Magicblocks playground
+- Write simple logic in javascript on the playground
+- Connect to cloud APIs for advanced functionality. Eg: Image processing, Stream analytics
+- Visualize data on fully customizable dashboards
+
+From this blog we hope to introduce you to Magicblocks IDE and application development using it. Stay tuned with us for more exiting news.
+
