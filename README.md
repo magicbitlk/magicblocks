@@ -15,6 +15,9 @@ magicblocks.io is a launchpad for learning and prototyping your internet of thin
     - API services
     
 Everything has been designed to make the learning curve as shallow as possible for the newcomer and as flexible as possible for the advanced user. 
+<p align="center">
+  <img width="460" height="300" src=[![](Images/Screenshot%20(33).png)](https://youtu.be/GsGTdvQW6ig)>
+</p>
 [![](Images/Screenshot%20(33).png)](https://youtu.be/GsGTdvQW6ig)
 
 # Magicblocks Hardware
