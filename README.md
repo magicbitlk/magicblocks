@@ -62,3 +62,4 @@ Our multi architecture development board is a hardcore learning material where t
 
 From this blog we hope to introduce you to Magicblocks IDE and application development using it. Stay tuned with us for more exiting news.
 
+##[Learn more about maigblocks.io](https://github.com/Magicblocks/magicblocks.io/wiki)
