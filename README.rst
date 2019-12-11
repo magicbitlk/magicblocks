@@ -1,4 +1,4 @@
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/magic.jpg?raw=true?raw=true
+.. image::https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/magic.jpg?raw=true?raw=true
 
 #############
 Unleash the power of magic for the Internet of Things
