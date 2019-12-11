@@ -4,17 +4,19 @@
 What is Internet of Things
 *****************************************************
 
-The `Internet of things <https://www.iotforall.com/what-is-iot-simple-explanation/>`_ is nothing new. It is an evolutionary next step in the machine to machine communication paradigm. With an ever increasing number of 'things' at our disposal the need for connected 'things' has grown rapidly. However with increasing options comes added complexity which introduces steep learning curves and more importantly more confusion. What devices should I use? What cloud platform will best server my interest? I am new to IoT where should I start? Those are the question that would linger in any one who would dare to wonder in to the internet of Things. We, at` magicblocks.io <http://magicblocks.io>`_
- have put some magic to work to make the life of both the newcomer and the professional one step easier.
-
-
-*************************************************
-What is `magicblocks.io <http://magicblocks.io>`_
-*************************************************
+The `Internet of things <https://www.iotforall.com/what-is-iot-simple-explanation/>`_ is nothing new. It is an evolutionary next step in the machine to machine communication paradigm. With an ever increasing number of 'things' at our disposal the need for connected 'things' has grown rapidly. However with increasing options comes added complexity which introduces steep learning curves and more importantly more confusion. What devices should I use? What cloud platform will best server my interest? I am new to IoT where should I start? Those are the question that would linger in any one who would dare to wonder in to the internet of Things. We, at `magicblocks.io <http://magicblocks.io>`_ have put some magic to work to make the life of both the newcomer and the professional one step easier.
 
 
 
-Magicblocks.io is the IoT platform by [A&T Labs](atlabslanka.com) for building IoT applications with minimal hassle. Tried and tested over the years the lateset release of [magicblocks.io](magicblocks.io) will connect to more devices and do more thanks to the open source project Node-Red.
+**********************
+What is magicblocks.io
+**********************
+
+
+
+
+Magicblocks.io is the IoT platform by `A & T Labs <http://atlabslanka.com>`_
+  for building IoT applications with minimal hassle. Tried and tested over the years the lateset release of [magicblocks.io](magicblocks.io) will connect to more devices and do more thanks to the open source project Node-Red.
 magicblocks.io is a launchpad for learning and prototyping your internet of things. It consists of 
 - Hardware suite made up of
      - Development boards
@@ -207,6 +209,7 @@ How to create magicblocks account
 
 .. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/pasted-image-0-1-1024x576.png
 
+
 - Click on the SIGN UP button after inserted your details
 
 
@@ -223,13 +226,13 @@ How to create magicblocks account
 
 - Log In to Your Magicblocks.io Account
 
-- Enter your email address and the Magicblocks Password and sign in to magicblocks**
+- Enter your email address and the Magicblocks Password and sign in to magicblocks
 
 
 - Go to Magicblocks.io official website. `www.magicblocks.io <http://magicblocks.io>`_
 
 - Select LOGIN
-- Provide your login details.**
+- Provide your login details.
 
 
 .. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS2.png
@@ -336,7 +339,7 @@ The workspace has a row of tabs along the top; one for each flow and any subflow
 Adding a flow
 =============
 
-To add a new flow, click the  <img width="12" height="12" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/plus.png">  button in the top bar.
+.. image::https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/plus.png" button in the top bar.
 
 Editing flow properties
 =======================
