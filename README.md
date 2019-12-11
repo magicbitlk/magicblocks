@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="640" height="480" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/magic.jpg?raw=true?raw=true">
+  <img width="640" height="480" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/magic.jpg?raw=true?raw=true">
 </p>
 
 
@@ -21,7 +21,7 @@ magicblocks.io is a launchpad for learning and prototyping your internet of thin
 Everything has been designed to make the learning curve as shallow as possible for the newcomer and as flexible as possible for the advanced user. 
 
 <p align="center">
-  <img width="640" height="480" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/image.png?raw=true">
+  <img width="640" height="480" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/image.png?raw=true">
 </p>
 
 # Magicblocks.io Cloud Platform
@@ -30,7 +30,7 @@ Any ioT creation you want to connect with nodes without any coding and your proj
 
 You can also create attractively online dashboards online without any coding
 <p align="center">
- <img width="768" height="432" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/pasted-image-0-768x432.png?raw=true">
+ <img width="768" height="432" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/pasted-image-0-768x432.png?raw=true">
 </p>
 
 # Magicblocks.io Dashboard
@@ -39,7 +39,7 @@ In Magicblocks you can also create Web based-dashboards attractively for your Io
 You need to connect the necessary widgets to the dashboard that you want and to configure the settings you need to reach them. 
 Then, you can access your Online Dashboard from the dashboard menu on your dashboard, where you can click on the URL in the browser to access the Dashboard via any Device Device such as Smart Phone, Tablet, PC.
 <p align="center">
- <img width="600" height="460" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/dashboarde.png?raw=true">
+ <img width="600" height="460" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/dashboarde.png?raw=true">
 </p>
 
 # Making the account of Magicblocks Developer
@@ -48,13 +48,13 @@ Then, you can access your Online Dashboard from the dashboard menu on your dashb
 * **Select SIGNUP**
 
 <p align="center">
-  <img width="1024" height="432" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/pasted-image-0-1-1024x576.png">
+  <img width="1024" height="432" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/pasted-image-0-1-1024x576.png">
 </p>
 
 * **Click on the SIGN UP button after inserted your details**
 
 <p align="center">
-  <img width="1024" height="432" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/pasted-image-0-2-1024x576.png">
+  <img width="1024" height="432" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/pasted-image-0-2-1024x576.png">
 </p>
 
 ## 
@@ -64,7 +64,7 @@ Then, you can access your Online Dashboard from the dashboard menu on your dashb
 * **Follow the Activation Link which we have sent you as an email.**
 
 <p align="center">
-  <img width="1024" height="432" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/SS1.png">
+  <img width="1024" height="432" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS1.png">
 </p>
 
 * **Log In to Your Magicblocks.io Account**
@@ -77,7 +77,7 @@ Then, you can access your Online Dashboard from the dashboard menu on your dashb
 * **Provide your login details.**
 
 <p align="center">
-  <img width="1024" height="432" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/SS2.png">
+  <img width="1024" height="432" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS2.png">
 </p>
 
 ## Connecting to a WiFi network
@@ -87,7 +87,7 @@ Then, you can access your Online Dashboard from the dashboard menu on your dashb
 
 
 <p align="center">
-  <img width="292" height="409" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/SS3.png">
+  <img width="292" height="409" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS3.png">
 </p>
 
 * **Navigate to http://192.168.4.1in your browser**
@@ -108,7 +108,7 @@ _After setting up MagicZero ,you can disconnect it from your computer Network se
 
 
 <p align="center">
-  <img width="1024" height="432" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/SS4.png">
+  <img width="1024" height="432" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS4.png">
 </p>
 
 * **Click on Add Device**
@@ -116,7 +116,7 @@ _After setting up MagicZero ,you can disconnect it from your computer Network se
 * **Fill out following details**
 
 <p align="center">
-  <img width="1024" height="432" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/SS5.png">
+  <img width="1024" height="432" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS5.png">
 </p>
 
 * Device ID: (which is printed on the top side of your device chip)
@@ -133,32 +133,32 @@ Follow these steps to do it!
 * Go to the Playground tab in your Magicblocks developer account
 
 <p align="center">
-  <img width="768" height="432" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/Untitled-1-1024x576.jpg">
+  <img width="768" height="432" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Untitled-1-1024x576.jpg">
 </p>
 
 Activate the playground using **start playground** reference. Then the web page appears as follows. (If you entering the playground the web page appears in bellow picture, you don't want to follow above steps)
 
 <p align="center">
-  <img width="768" height="432" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/Untitled-2-1024x576.jpg">
+  <img width="768" height="432" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Untitled-2-1024x576.jpg">
 </p>
 
 * The **Edit** button showing with dotted line in the above picture you can enter the playground.
 
 <p align="center">
-  <img width="768" height="432" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/3-1024x576.jpg">
+  <img width="768" height="432" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/3-1024x576.jpg">
 </p>
 
 
 * To create the Magicblocks.io platform, first you need to add your Magicblocks.io device to your Magicblocks Developer Account. Do it according the following video.
 
 <p align="center">
-  <img width="640" height="480" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/image1.png">
+  <img width="640" height="480" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/image1.png">
 </p>
 
 # Magicblocks.io PLAYGROUND 
 
 <p align="center">
-  <img width="768" height="432" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/3-1024x576.jpg">
+  <img width="768" height="432" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/3-1024x576.jpg">
 </p>
 
 The editor window consists of four components:
@@ -169,7 +169,7 @@ The editor window consists of four components:
 * The sidebar on the right.
 
 <p align="center">
-  <img width="768" height="432" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-default-components-1024x683.png">
+  <img width="768" height="432" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-default-components-1024x683.png">
 </p>
 
 
@@ -180,12 +180,12 @@ The workspace has a row of tabs along the top; one for each flow and any subflow
 Source:[www.nodered.org](www.nodered.org)
 
 <p align="center">
-  <img width="1398" height="52" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-flow-tabs.png">
+  <img width="1398" height="52" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-flow-tabs.png">
 </p>
 
 ## Adding a flow
 
-To add a new flow, click the  <img width="12" height="12" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/plus.png">  button in the top bar.
+To add a new flow, click the  <img width="12" height="12" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/plus.png">  button in the top bar.
 
 ## Editing flow properties
 
@@ -196,7 +196,7 @@ Within the dialog, the flow’s name and description can be set. The description
 The Status property can be used to disable or enable the flow.
 
 <p align="center">
-  <img width="502" height="690" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-edit-flow.png">
+  <img width="502" height="690" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-edit-flow.png">
 </p>
 
 ## Deleting a flow
@@ -216,7 +216,7 @@ Nodes can be added to the workspace by either:
 Nodes are joined together by wires via their ports. A node can have at most one input port and many output ports. A port may have a label that is displayed when the mouse hovers over it. A node may specify labels, for example, the Switch node shows the rule that matches the port. The labels can also be customised in the node edit dialog.
 
 <p align="center">
-  <img width="222" height="71" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-node-port-label.png">
+  <img width="222" height="71" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-node-port-label.png">
 </p>
 
 
@@ -224,7 +224,7 @@ Source:[www.nodered.org](www.nodered.org)
 Some nodes display a status message and icon below the node. This is used to indicate the runtime state of the node - for example, the MQTT nodes indicate if they are currently connected or not.
 
 <p align="center">
-  <img width="550" height="94" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-node-details.png">
+  <img width="550" height="94" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-node-details.png">
 </p>
 
 If a node has any undeployed changes, it displays a blue circle above it. If there are errors with its configuration, it displays a red triangle.
@@ -242,7 +242,7 @@ The dialog contains a complete list of all nodes available to add. It shows the 
 As with the main palette, the dialog has an input at the top to filter the list and quickly find a node.
 
 <p align="center">
-  <img width="340" height="227" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-quick-add.png">
+  <img width="340" height="227" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-quick-add.png">
 </p>
 
 ## Editing node configuration
@@ -250,17 +250,17 @@ As with the main palette, the dialog has an input at the top to filter the list 
 A node’s configuration can be edited by double clicking on the node, or pressing **Enter** when the workspace has focus. If multiple nodes are selected, the _first_ node in the selection will be edited.
 
 <p align="center">
-  <img width="502" height="690" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-edit-node.png">
+  <img width="502" height="690" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-edit-node.png">
 </p>
  
-<p align="center"> <img width="502" height="690" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-edit-node-settings.png">
+<p align="center"> <img width="502" height="690" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-edit-node-settings.png">
 </p> 
 
 The node edit dialog has two separate sections; properties and settings. The properties section shows the edit form specific to the node type being edited. The settings section shows the common settings that can be set on all nodes. This includes the custom port labels as well as the icon for the node.
 
 Clicking on the icon shows the Node icon picker that can be used to select the icon for the node from the list of all available icons.
 
-<p align="center"> <img width="346" height="306" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-edit-node-settings-icon.png">
+<p align="center"> <img width="346" height="306" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-edit-node-settings-icon.png">
 </p> 
 
 ## Configuration nodes
@@ -271,12 +271,12 @@ For example, the MQTT In and Out nodes use an MQTT Broker config node to represe
 
 Configuration nodes are added through the edit dialog of a node that requires the config node. It will have a field to select from the available config nodes of the required type or to add a new instance.
 
-<p align="center"> <img width="468" height="49" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-edit-node-config-node.png">
+<p align="center"> <img width="468" height="49" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-edit-node-config-node.png">
 </p>
 
 Clicking the button next to the select box will open the edit dialog for the selected node, or add a new instance.
 
-<p align="center"> <img width="1200" height="600" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-edit-config-node.png">
+<p align="center"> <img width="1200" height="600" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-edit-config-node.png">
 </p>
 
 The config node edit dialog only has the node properties section - as a config node has no icon or ports to set labels on.
@@ -288,7 +288,7 @@ The Configuration Nodes Sidebar can be used to manage all config nodes.
 Nodes are wired together by pressing the left-mouse button on a node’s port, dragging to the destination node and releasing the mouse button.
 
 <p align="center">
-  <img width="435" height="120" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-node-wire.png">
+  <img width="435" height="120" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-node-wire.png">
 </p>
 
 Alternatively, if the **Ctrl/Command** key is held down, the left-mouse button can be clicked (and released) on a node’s port and then clicked on the destination. If the **Ctrl/Command** key remains held and the just-wired destination node has an output port, a new wire is started from that port. This allows a set of nodes to be quickly wired together.
@@ -300,7 +300,7 @@ This can also be combined with the Quick-Add dialog that is triggered by a **Ctr
 If a node with both an input and output port is dragged over the mid-point of a wire, the wire is draw with a dash. If the node is then dropped, it is automatically inserted into the flow at that point.
 
 <p align="center">
-  <img width="810" height="210" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-wiring-splice.png">
+  <img width="810" height="210" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-wiring-splice.png">
 </p>
 
 ## Moving wires
@@ -330,7 +330,7 @@ The lasso tool can be used to select multiple nodes. It is enabled by click-drag
 It cannot be used to select a wire.
 
 <p align="center">
-  <img width="460" height="209" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-workspace-lasso.png">
+  <img width="460" height="209" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-workspace-lasso.png">
 </p>
 
 ## Selecting all nodes
@@ -353,7 +353,7 @@ The ‘Import’ button will only be active if valid JSON is pasted into the dia
 The dialog also offers the option to import the nodes into the current flow, or to create a new flow for them.
 
 <p align="center">
-  <img width="502" height="337" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-import.png">
+  <img width="502" height="337" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-import.png">
 </p>
 
 ## Exporting flows
@@ -365,7 +365,7 @@ It can export either the selected nodes, the current flow (including its tab nod
 It offers the option to export compact or formatted JSON. The compact option generates a single line of JSON with no whitespace. The formatted JSON option is formatted over multiple lines with full indentation - which can be easier to read.
 
 <p align="center">
-  <img width="502" height="371" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-export.png">
+  <img width="502" height="371" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-export.png">
 </p>
 
 
@@ -381,7 +381,7 @@ Since **Magicblocks** is based on NODE-RED opensource platform you can learn mor
 * https://github.com/node-red/node-red-dashboard
 
 <p align="center">
-  <img width="376" height="464" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/dashboard_nodes.png">
+  <img width="376" height="464" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/dashboard_nodes.png">
 </p>
 
 Nodes from the dashboard section provide widgets that show up in your application user interface (UI).
@@ -397,7 +397,7 @@ To create a tab and a group follow the following instructions (see figure below)
 * Once created, you can edit the tab by clicking on the edit button **(3)**
 
 <p align="center">
-  <img width="407" height="417" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/dashboard_and_nodes.PNG">
+  <img width="407" height="417" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/dashboard_and_nodes.PNG">
 </p>
 
 **You can edit the tab’s name and change its icon**
@@ -406,7 +406,7 @@ To create a tab and a group follow the following instructions (see figure below)
 * Icon:  you should use a name accordingly to the icon’s names in this link: https://klarsys.github.io/angular-material-icons
 
 <p align="center">
-  <img width="506" height="201" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/edit-tab.png">
+  <img width="506" height="201" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/edit-tab.png">
 </p>
 
 * After creating a tab, you can create several groups under that tab. You need to create at least one group to add your widgets. To add a group to the created tab, you need to click on the +group button **(4)**.
@@ -414,7 +414,7 @@ To create a tab and a group follow the following instructions (see figure below)
 * Then, you can edit the created group by clicking on the edit button **(5)**.
 
 <p align="center">
-  <img width="506" height="259" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/group-properties.png">
+  <img width="506" height="259" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/group-properties.png">
 </p>
 
 * You can edit its name, select its corresponding tab and change its width.
@@ -424,13 +424,13 @@ To create a tab and a group follow the following instructions (see figure below)
 The **Magicblocks** Dashboard has a white background and a light blue bar by default. You can edit its colors in the Theme tab on the up right corner as show in the following figure.
 
 <p align="center">
-  <img width="506" height="259" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/theme-properties.png">
+  <img width="506" height="259" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/theme-properties.png">
 </p>
 
 * Change the style, deploy the changes and see the Dashboard UI changing its colors. For example, like in the following figure
 
 <p align="center">
-  <img width="768" height="432" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/Dashboard.PNG">
+  <img width="768" height="432" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Dashboard.PNG">
 </p>
 
 # Dashboard Site
@@ -438,7 +438,7 @@ The **Magicblocks** Dashboard has a white background and a light blue bar by def
 At the right upper corner of the **Magicblocks** window, you have another tab called Site that allows you to do further customization as show in the figure below.
 
 <p align="center">
-  <img width="291" height="464" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/site-properties.png">
+  <img width="291" height="464" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/site-properties.png">
 </p>
 
 Feel free to change the settings, then deploy the changes and see how the UI looks. At the moment you won’t see much difference because you haven’t added anything to the dashboard yet. Those changes will be noticeable when you start adding widgets to the UI.
@@ -469,20 +469,20 @@ And the other one with the following
 Then, add two groups to the Room tab and one group to the Garden tab. The following figure shows how your dashboard layout looks.
 
 <p align="center">
-  <img width="274" height="263" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/dashboard-layout.png">
+  <img width="274" height="263" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/dashboard-layout.png">
 </p>
 
 # Adding the Widgets
 
 Add a switch, a slider, a colour picker and a gauge to the flow as show in the following figure
 <p align="center">
-  <img width="181" height="277" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/flow.png">
+  <img width="181" height="277" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/flow.png">
 </p>
 
 Double click on the switch. A new window pops up.
 
 <p align="center">
-  <img width="481" height="523" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/switch.png">
+  <img width="481" height="523" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/switch.png">
 </p>
 
 In this new window you can choose where you want your button widget to appear. In this case we want it to appear in the Room tab, Group 1 as highlighted in red in the previous figure.
@@ -507,7 +507,7 @@ All nodes include documentation you can see in the Info sidebar tab when you sel
 * Template
 # 
 <p align="left">
-  <img width="167" height="51" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/node_inject.png">
+  <img width="167" height="51" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/node_inject.png">
 </p>
 
 The Inject node can be used to manual trigger a flow by clicking the node’s button within the editor. It can also be used to automatically trigger flows at regular intervals.
@@ -521,7 +521,7 @@ The **payload** can be set to a variety of different types:
 * a Timestamp in milliseconds since January 1st, 1970
 # 
 <p align="left">
-  <img width="167" height="51" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/node_debug.png">
+  <img width="167" height="51" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/node_debug.png">
 </p>
 
 The Debug node can be used to display messages in the Debug sidebar within the editor.
@@ -539,7 +539,7 @@ The page on Working with messages gives more information about using the Debug s
 # 
 
 <p align="left">
-  <img width="167" height="51" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/node_function.png">
+  <img width="167" height="51" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/node_function.png">
 </p>
 
 The Function node allows JavaScript code to be run against the messages that are passed through it.
@@ -549,7 +549,7 @@ A complete guide for using the Function node is available here.
 # 
 
 <p align="left">
-  <img width="167" height="51" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/node_change.png">
+  <img width="167" height="51" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/node_change.png">
 </p>
 
 The Change node can be used to modify a message’s properties and set context properties without having to resort to a Function node.
@@ -565,7 +565,7 @@ Each node can be configured with multiple operations that are applied in order. 
 # 
 
 <p align="left">
-  <img width="167" height="51" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/node_switch.png">
+  <img width="167" height="51" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/node_switch.png">
 </p>
 
 The Switch node allows messages to be routed to different branches of a flow by evaluating a set of rules against each message.
@@ -585,7 +585,7 @@ Source:[www.nodered.org](www.nodered.org)
 
 
 <p align="center">
-  <img width="153" height="552" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/Blocks.PNG">
+  <img width="153" height="552" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Blocks.PNG">
 </p>
 ESP blocks set can be used with any ESP8266 based device including MagicWiFi. Following blocks are available, 
 
@@ -607,11 +607,11 @@ To attach a device ID for the first time, select 'Add new esp' and click the edi
 
 ##### Copy the ID in device manager of magicblocks and paste in to device id in the Node Properties Device ID 
 <p align="center">
-  <img width="778" height="386" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/Capture_2.PNG">
+  <img width="778" height="386" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture_2.PNG">
 </p>
 
 <p align="center">
-  <img width="778" height="386" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/Capture%201.PNG">
+  <img width="778" height="386" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture%201.PNG">
 </p>
 
 In the next dialog click the search button which will display all your added devices. Select the device you want to add and click 'Add'. Once you have added a device you can select it from the dropdown in the respective node.
@@ -625,7 +625,7 @@ Except serial blocks every other block have property called Pin which will ident
 
 # 1. Digital In
 <p align="center">
-  <img width="778" height="386" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/Capture_3.PNG">
+  <img width="778" height="386" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture_3.PNG">
 </p>
 
 This block will read Input status of a pin. Block need to triggered to get input status. Any input will serve as a trigger. Inject node can be used for this purpose.Input status can be passed to a another block or viewed on the debug window.
@@ -642,7 +642,7 @@ This block will read Input status of a pin. Block need to triggered to get input
 # 2. Digital Out
 
 <p align="center">
-  <img width="778" height="386" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/Capture_4.PNG">
+  <img width="778" height="386" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture_4.PNG">
 </p>
 This block is used to set a digital output pin to 1 or 0 based on the input. An input of 1 or true will make the configured pin go HIGH and vice versa
 
@@ -656,7 +656,7 @@ This block is used to set a digital output pin to 1 or 0 based on the input. An 
 # 3. Analog In
 
 <p align="center">
-  <img width="778" height="386" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/Capture_6.PNG">
+  <img width="778" height="386" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture_6.PNG">
 </p>
 
 This block will read analog value of the ADC pin of the module. Similar to the digital in block you need to trigger the block to read the value. Any input sent to the block will serve as the trigger.
@@ -678,7 +678,7 @@ Name: Any name desired
 # 3. Analog Out
 
 <p align="center">
-  <img width="778" height="386" src="https://github.com/Magicblocks/magicblocks.io/blob/master/Images/Capture_7.PNG">
+  <img width="778" height="386" src="https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture_7.PNG">
 </p>
 
 
