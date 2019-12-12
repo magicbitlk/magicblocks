@@ -51,6 +51,7 @@ The `Internet of things <https://www.iotforall.com/what-is-iot-simple-explanatio
 *****************
 Hardware
 *****************
+
 LED
 -------
 There is a micro USB port on the back of the Magicbit.Connect the micro USB port to a mobile phone charger or computer through a cable and it will draw power required for the board to function and it also used program magibit and data transferring with a computer.
@@ -58,6 +59,14 @@ There is a micro USB port on the back of the Magicbit.Connect the micro USB port
 WiFi
 ----
 
+WiFi is a technology that uses radio waves to provide network connectivity. Magicbit consists with wifi module. WiFi  technology has widely spread lately and you can get connected almost anywhere; at home, at work, in libraries, schools, airports, hotels and even in some restaurants enabling IOT connectivity capabilities.
+
+
+BLUETOOTH
+---------
+
+Bluetooth is a wireless technology standard used for exchanging data between fixed and mobile devices over short distances using short-wavelength UHF radio waves.
+Magicbit consists with wifi module which enables IOT connectivity capabilities
 
 
 
