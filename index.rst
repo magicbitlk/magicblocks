@@ -193,7 +193,35 @@ RESET BUTTON
 
 In electronics and technology, a reset button is a button that can reset a device. On Magicbit, the reset button restarts the Magicbit’s programme
 
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/magic.jpg?raw=true?raw=true
 
+#############
+Unleash the power of magic for the Internet of Things
+############
+The [Internet of things](https://www.iotforall.com/what-is-iot-simple-explanation/) is nothing new. It is an evolutionary next step in the machine to machine communication paradigm. With an ever increasing number of 'things' at our disposal the need for connected 'things' has grown rapidly. However with increasing options comes added complexity which introduces steep learning curves and more importantly more confusion. What devices should I use? What cloud platform will best server my interest? I am new to IoT where should I start? Those are the question that would linger in any one who would dare to wonder in to the internet of Things. We, at [magicblocks.io](magicblocks.io) have put some magic to work to make the life of both the newcomer and the professional one step easier.
+
+################
+What is [magicblocks.io](magicblocks.io) ?
+##################
+
+Magicblocks.io is the IoT platform by [A&T Labs](atlabslanka.com) for building IoT applications with minimal hassle. Tried and tested over the years the lateset release of [magicblocks.io](magicblocks.io) will connect to more devices and do more thanks to the open source project Node-Red.
+magicblocks.io is a launchpad for learning and prototyping your internet of things. It consists of 
+- Hardware suite made up of
+     - Development boards
+     - Prototyping kits for sensors & actuators
+- Cloud platform made up of
+     - Drag and drop editor to easily cook up your solutions
+     - Dashboards to visualize your data
+     - Data storage
+     - API services
+Everything has been designed to make the learning curve as shallow as possible for the newcomer and as flexible as possible for the advanced user. 
+
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/image.png?raw=true
+
+#############
+Magicblocks.io Cloud Platform
+#############
 
 
 
