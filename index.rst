@@ -2,28 +2,7 @@
 
 
 
-**********************
-What is magicblocks.io
-**********************
 
-
-
-
-Magicblocks.io is the IoT platform by `A & T Labs <http://atlabslanka.com>`_
-  for building IoT applications with minimal hassle. Tried and tested over the years the lateset release of [magicblocks.io](magicblocks.io) will connect to more devices and do more thanks to the open source project Node-Red.
-magicblocks.io is a launchpad for learning and prototyping your internet of things. It consists of 
-- Hardware suite made up of
-     - Development boards
-     - Prototyping kits for sensors & actuators
-- Cloud platform made up of
-     - Drag and drop editor to easily cook up your solutions
-     - Dashboards to visualize your data
-     - Data storage
-     - API services
-Everything has been designed to make the learning curve as shallow as possible for the newcomer and as flexible as possible for the advanced user. 
-
-
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/image.png?raw=true
 
 
 Magicblocks.io Cloud Platform
