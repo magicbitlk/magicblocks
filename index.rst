@@ -5,21 +5,7 @@
 
 
 
-Magicblocks.io Cloud Platform
-=============================
 
-Any ioT creation you want to connect with nodes without any coding and your project running in the cloud platform the development board you use will not have much memory or more processing capability, unless you want to create Image Processing, Character Recognizing, DB Handling, you can create any project on it.
-
-You can also create attractively online dashboards online without any coding
-
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/pasted-image-0-768x432.png?raw=true
-
-Magicblocks.io Dashboard
-========================
-
-In Magicblocks you can also create Web based-dashboards attractively for your IoT designs without any codes. 
-You need to connect the necessary widgets to the dashboard that you want and to configure the settings you need to reach them. 
-Then, you can access your Online Dashboard from the dashboard menu on your dashboard, where you can click on the URL in the browser to access the Dashboard via any Device Device such as Smart Phone, Tablet, PC.
 
 .. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/dashboarde.png?raw=true
 
