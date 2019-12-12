@@ -48,18 +48,95 @@ What is Internet of Things
 
 The `Internet of things <https://www.iotforall.com/what-is-iot-simple-explanation/>`_ is nothing new. It is an evolutionary next step in the machine to machine communication paradigm. With an ever increasing number of 'things' at our disposal the need for connected 'things' has grown rapidly. However with increasing options comes added complexity which introduces steep learning curves and more importantly more confusion. What devices should I use? What cloud platform will best server my interest? I am new to IoT where should I start? Those are the question that would linger in any one who would dare to wonder in to the internet of Things. We, at `magicblocks.io <http://magicblocks.io>`_ have put some magic to work to make the life of both the newcomer and the professional one step easier.
 
-*****************
-Hardware
-*****************
+Specifications
+=============
+- **Processor** - Xtensa dual-core
+- **Speed**- Up to 240Mhz
+- **Flash Memory**-4MB
+- **Ram**-520KB
+- **Inputs**-Pushbutton, LDR, Potentiometer
+- **Outputs**-LEDs, OLED Display, Buzzer
+- **Other**- Dual Motor Driver, Li-Ion Charger
+- **Connectivity**- USB, WiFi, Bluetooth
+
+
+Layout
+======
+
+.. image:: https://github.com/magicbitlk/Magicbit-Arduino/raw/master/Resources/features_frontTP.png
+.. image:: https://github.com/magicbitlk/Magicbit-Arduino/raw/master/Resources/features_backTP.png
+
+
+Pinmap
+======
+
+
+.. image:: https://github.com/Magicbitlk/arduino-esp32/raw/master/docs/pinout.png
+
+
+Features
+========
+
 
 
 LED
 ---
+
+
+There are four leds on backside of the Magicbit with color red, yellow, green & blue. A LED(light-emitting diode) is a semiconductor light source that emits light when current flows through it. Blinking a LED is the hello world to the microcontroller programming world.
+
+
+BUTTON
+------
+
+There are two buttons on the front of the Magicbit. The push-button is a component that connects two points in a circuit when you press it. The example turns on an LED when you press the button.
+
+
+
+LDR
+---
+
+There is a LDR on the front of the Magicbit. LDR(Light Dependent Resistor) is a light-controlled variable resistor. The resistance of a photo-resistor decreases with increasing incident light intensity. You can measure light intensity using LDR as a analog output.
+
+
+POTENTIOMETER
+-------------
+
+The potentiometer is a component with rotating contact that forms an adjustable voltage divider. A potentiometer is a simple knob that provides a variable resistance, which we can read into the Magicbit board as an analog value.
+
+
+DISPLAY
+-------
+
+OLED (Organic Light Emitting Diodes) is a flat light emitting technology. OLED display has a film of organic compound that emits light in response to an electric current.You can display varoius graphics and text on the display.
+
+BUZZER
+------
+
+There is a buzzer on the front of the Magicbit. Buzzer is an electronic device commonly used to produce sound.
+
+
+
+BATTERY
+-------
+
+There is a Battery connector on the front of the Magicbit.Single cell rechargeable li-ion battery (3.7V) can be plugged in to a battery connector to puwer the Magicbit. Battery can be recharged by providing USb power to the Magicbit.
+
+
+MODULES
+-------
+
+There are four module connectors on the edge connector of the Magicbit, which we refer to as ports. Which can connect various accessories to Magicbit board and program to work with Magicbit. Matching accessory pin connector color marked on the Magicbit. As an example module with blue pin connector should plug in to blue port of the Magicbit.
+
+
+
+USB
+---
+
 There is a micro USB port on the back of the Magicbit.Connect the micro USB port to a mobile phone charger or computer through a cable and it will draw power required for the board to function and it also used program magibit and data transferring with a computer.
 
 WiFi
 ----
-
 
 WiFi is a technology that uses radio waves to provide network connectivity. Magicbit consists with wifi module. WiFi  technology has widely spread lately and you can get connected almost anywhere; at home, at work, in libraries, schools, airports, hotels and even in some restaurants enabling IOT connectivity capabilities.
 
@@ -70,6 +147,23 @@ BLUETOOTH
 
 Bluetooth is a wireless technology standard used for exchanging data between fixed and mobile devices over short distances using short-wavelength UHF radio waves.
 Magicbit consists with wifi module which enables IOT connectivity capabilities
+
+EXPANSION HEADER
+----------------
+
+Magicbit can connect various electronic sensors, electronically controlled actuators,etc to Magicbit via these external connectors
+
+CROCODILE CLIP
+--------------
+
+
+Magicbit crocodile clip connectors used to connect an electrical cable to a battery or some other component. Functioning much like a spring-loaded clothespin, the clip's tapered, serrated jaws are forced together by a spring to grip an object
+
+RESET BUTTON
+------------
+
+In electronics and technology, a reset button is a button that can reset a device. On Magicbit, the reset button restarts the Magicbit’s programme
+
 
 
 
