@@ -187,3 +187,39 @@ RESET BUTTON
 
 In electronics and technology, a reset button is a button that can reset a device. On Magicbit, the reset button restarts the Magicbit’s programme
 
+***************
+Getting Started
+***************
+
+Making the account of Magicblocks Developer
+===========================================
+
+- Go to magicblocks website `http://magicblocks.io/ <http://magicblocks.io/>`_
+
+
+- Select SIGNUP
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/pasted-image-0-1-1024x576.png
+
+
+- Click on the SIGN UP button after inserted your details
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/pasted-image-0-2-1024x576.png
+
+
+- Go to the email account you provided and activate your Magicblocks account with the Activation Link
+
+* **Follow the Activation Link which we have sent you as an email.**
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS1.png
+
+
+Log In to Your Magicblocks.io Account
+=====================================
+
+- Go to Magicblocks.io official website. www.magicblocks.io
+- Select LOGIN
+- Provide your login details.
+- Enter your email address and the Magicblocks Password and sign in to magicblocks
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS2.png
+
