@@ -207,28 +207,5 @@ Making the account of Magicblocks Developer
 .. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/pasted-image-0-2-1024x576.png
 
 
-- Go to the email account you provided and activate your Magicblocks account with the Activation Link
-
-- Follow the Activation Link which we have sent you as an email.
-
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS1.png
-
-
-Log In to Your Magicblocks.io Account
-=====================================
-
-- Go to Magicblocks.io official website. www.magicblocks.io
-- Select LOGIN
-- Provide your login details.
-- Enter your email address and the Magicblocks Password and sign in to magicblocks
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS2.png
-
-Connecting to a WiFi network
-============================
-
-- Power up module from USB or Battery.
-- Connect your device as wifi access point of your computer.
-
-
 
 
