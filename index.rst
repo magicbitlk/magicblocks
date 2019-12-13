@@ -314,3 +314,60 @@ Deleting wires
 --------------
 
 To delete a wire, first select it by clicking on it and then press the **delete** key.
+
+Selection
+=========
+A node is selected when it is clicked on. This will deselect anything currently selected. The Information Sidebar will update to show the node’s properties and help text for its type.
+
+If the **Ctrl** or **Command** key is held when clicking on the node, the node will be added to the current selection (or removed if it was already selected).
+
+If the **Shift** key is held when clicking on the node, it will select that node and all other nodes it is connected to.
+
+A wire is selected when it is clicked on. Unlike nodes, it is only possible to select one wire at a time.
+
+Lasso Tool
+----------
+
+The lasso tool can be used to select multiple nodes. It is enabled by click-dragging on the workspace.
+
+It cannot be used to select a wire.
+
+.. image:: https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-workspace-lasso.png?raw=true
+
+
+Selecting all nodes
+-------------------
+To select all nodes on the current flow, ensure the workspace has focus and then press **Ctrl/Command-a**.
+
+Editor clipboard
+----------------
+
+The editor supports the standard copy/cut/paste actions. Note they use an internal clipboard rather than the system clipboard.
+
+Import & Export
+===============
+
+Flows can be imported and exported from the editor using their JSON format, making it very easy to share flows with others.
+
+Importing flows
+---------------
+
+To import a flow, open the Import dialog, paste in the flow json and click ‘Import’.
+
+The ‘Import’ button will only be active if valid JSON is pasted into the dialog.
+
+The dialog also offers the option to import the nodes into the current flow, or to create a new flow for them.
+
+.. image:: https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-import.png?raw=true
+
+
+Exporting flows
+---------------
+
+The Export dialog can be used to copy flow json out of the editor.
+
+It can export either the selected nodes, the current flow (including its tab node) or the complete flow configuration.
+
+It offers the option to export compact or formatted JSON. The compact option generates a single line of JSON with no whitespace. The formatted JSON option is formatted over multiple lines with full indentation - which can be easier to read.
+
+.. image:: https://github.com/Magicblocks/magicblocks.io/blob/master/Images/editor-export.png?raw=true
