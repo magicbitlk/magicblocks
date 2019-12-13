@@ -588,7 +588,7 @@ There are four types of rule:
 The node will route a message to all outputs corresponding to matching rules. But it can also be configured to stop evaluating rules when it finds one that matches.
 
 ***************
-Msgicbit Blocks
+Magicbit Blocks
 ***************
 
 .. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Blocks.PNG?raw=true
