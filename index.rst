@@ -77,5 +77,12 @@ Create Magicblocks.io Account
 .. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS1.png?raw=true
 
 
+Login to Your Magicblocks.io Account
+=====================================
 
+- Go to Magicblocks.io official website. www.magicblocks.io
+- Select LOGIN
+- Provide your login details.
+- Enter your email address and the Magicblocks Password and sign in to magicblocks
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS2.png?raw=true
 
