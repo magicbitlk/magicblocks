@@ -376,7 +376,7 @@ Dashboards
 **********
 
 What is Magicblocks Dashboard?
-------------------------------
+==============================
 
 **Magicblocks** Dashboard is a module that provides a set of nodes in **Magicblocks** to quickly create a live data dashboard.
 
@@ -421,7 +421,7 @@ To create a tab and a group follow the following instructions (see figure below)
 - You can edit its name, select its corresponding tab and change its width.
 
 Dashboard Theme
----------------
+==============================
 
 The **Magicblocks** Dashboard has a white background and a light blue bar by default. You can edit its colors in the Theme tab on the up right corner as show in the following figure.
 
@@ -434,7 +434,7 @@ The **Magicblocks** Dashboard has a white background and a light blue bar by def
 
 
 Dashboard Site
---------------
+==============================
 
 At the right upper corner of the **Magicblocks** window, you have another tab called Site that allows you to do further customization as show in the figure below.
 
@@ -444,7 +444,7 @@ At the right upper corner of the **Magicblocks** window, you have another tab ca
 Feel free to change the settings, then deploy the changes and see how the UI looks. At the moment you won’t see much difference because you haven’t added anything to the dashboard yet. Those changes will be noticeable when you start adding widgets to the UI.
 
 Creating a User Interface – Example
------------------------------------
+==============================
 
 In this section we’re going to make a dashboard example to show you how you can build and edit your own dashboard – we won’t actually add functionalities to the widgets – we’ll do that in future projects. This dashboard will have the following features
 
@@ -454,7 +454,7 @@ In this section we’re going to make a dashboard example to show you how you ca
 - We’ll add a chart to the Garden group
 
 Creating the Tabs
------------------
+==============================
 
 On the top right corner on the Magicblocks window, select the **dashboard** tab and create two new tabs by clicking on the **+tab** button.
 
@@ -474,7 +474,7 @@ Then, add two groups to the Room tab and one group to the Garden tab. The follow
 
 
 Adding the Widgets
-------------------
+==============================
 
 Add a switch, a slider, a colour picker and a gauge to the flow as show in the following figure
 .. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/flow.png?raw=true
