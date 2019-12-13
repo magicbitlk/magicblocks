@@ -510,6 +510,9 @@ All nodes include documentation you can see in the Info sidebar tab when you sel
 - Switch
 - Template
 
+Inject node
+==========
+
 .. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/node_inject.png?raw=true
 
 
@@ -523,6 +526,8 @@ The **payload** can be set to a variety of different types:
 - a String, number, boolean, Buffer or Object
 - a Timestamp in milliseconds since January 1st, 1970
 
+Debug node
+===========
 .. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/node_debug.png?raw=true
 
 
@@ -538,7 +543,8 @@ The node can also be configured to send all messages to the runtime log, or to s
 
 The page on Working with messages gives more information about using the Debug sidebar.
 
-
+Function node
+==============
 
 .. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/node_function.png?raw=true
 
@@ -548,7 +554,8 @@ The Function node allows JavaScript code to be run against the messages that are
 A complete guide for using the Function node is `available here <https://nodered.org/docs/user-guide/writing-functions>`_
 .
 
-
+Change node
+==========
 
 .. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/node_change.png?raw=true
 
@@ -562,6 +569,8 @@ Each node can be configured with multiple operations that are applied in order. 
 - **Delete** - delete a property.
 - **When** setting a property, the value can also be the result of a JSONata expression. JSONata is a declarative query and transformation language for JSON data.
 
+Switch node
+===========
 
 .. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/node_switch.png?raw=true
 
