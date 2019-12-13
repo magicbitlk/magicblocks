@@ -187,3 +187,7 @@ RESET BUTTON
 
 In electronics and technology, a reset button is a button that can reset a device. On Magicbit, the reset button restarts the Magicbit’s programme
 
+***************
+Getting Started
+***************
+
