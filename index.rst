@@ -295,5 +295,53 @@ Activate the playground using **start playground** reference. Then the web page 
 
 
 
+*************************
+Magicblocks.io PLAYGROUND 
+*************************
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/3-1024x576.jpg
+
+The editor window consists of four components:
+
+- The header at the top, containing the deploy button, main menu, and, if user authentication is enabled, the user menu.
+- The palette on the left, containing the nodes available to use.
+- The main workspace in the middle, where flows are created.
+- The sidebar on the right.
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-default-components-1024x683.png
+
+The main workspace is where flows are developed by dragging nodes from the palette and wiring them together.
+The workspace has a row of tabs along the top; one for each flow and any subflows that have been opened.
+
+
+FLOW
+====
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-flow-tabs.png
+
+
+Adding a flow
+-------------
+
+To add a new flow, click the 
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/plus.png
+
+button in the top bar.
+
+Editing flow properties
+-----------------------
+
+To edit a flow’s properties, double-click on its tab in the top bar. This will open the Flow Properties dialog.
+
+Within the dialog, the flow’s name and description can be set. The description can use Markdown syntax for formatting and will appear in the Information sidebar.
+
+The Status property can be used to disable or enable the flow.
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-edit-flow.png
+
+
+Deleting a flow
+---------------
+
+To delete a flow, click the ‘Delete’ button in the Flow Properties dialog.
 
 
