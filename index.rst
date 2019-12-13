@@ -587,3 +587,94 @@ There are four types of rule:
 - An **Otherwise** rule can be used to match if none of the preceding rules have matched.
 The node will route a message to all outputs corresponding to matching rules. But it can also be configured to stop evaluating rules when it finds one that matches.
 
+***************
+Msgicbit Blocks
+***************
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Blocks.PNG?raw=true
+
+ESP blocks set can be used with any ESP8266 based device including MagicWiFi. Following blocks are available, 
+
+-Digital in
+-Analog In
+-Digital Out
+-PWM (Analog Out)
+-Servo
+-Serial In
+-Serial Out
+
+This block set enables you to control individual pins of the device from the playground. The functionality of each block is described below:
+
+How to attach a device
+======================
+
+Every block has a property called Device ID where you need to specify to which device this block belongs to. This is important because you will be working with multiple devices in a typical IoT project. To control a device (eg: MagicWiFi) via the playground you need to add the device as in Lesson 3 and if you have already done so, attach it to the playground according to the description below.
+
+To attach a device ID for the first time, select 'Add new esp' and click the edit button as shown below. If you have already added the device as in Lesson 3, it will be visible to you in the dropdown and you can select the device from there.
+
+Copy the ID in device manager of magicblocks and paste in to device id in the Node Properties Device ID 
+
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture_2.PNG?raw=true
+
+
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture%201.PNG?raw=true
+
+
+In the next dialog click the search button which will display all your added devices. Select the device you want to add and click 'Add'. Once you have added a device you can select it from the dropdown in the respective node.
+
+Except serial blocks every other block have property called Pin which will identify specific pin of the module. 
+
+Digital In
+----------
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture_3.PNG?raw=true
+
+
+This block will read Input status of a pin. Block need to triggered to get input status. Any input will serve as a trigger. Inject node can be used for this purpose.Input status can be passed to a another block or viewed on the debug window.
+
+
+- Configuration:
+    - Pin: pin number of the digital pin to read (Required)
+    - Name: Any name desired
+- Input
+    - Any input. Used as a trigger
+- Output
+    - Value of the pin as 1 or 0 in the following format and the pin number as the topic
+
+Digital Out
+-----------
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture_4.PNG?raw=true
+
+This block is used to set a digital output pin to 1 or 0 based on the input. An input of 1 or true will make the configured pin go HIGH and vice versa
+
+- Configuration
+    - Pin: pin number of the Digital pin to write to
+    - Name: Any name desired
+- Input
+    - value to be written to the pin. Accepts 1 (true) or 0 (false) eg: {"payload": 1}
+
+Analog In
+---------
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture_6.PNG?raw=true
+
+
+This block will read analog value of the ADC pin of the module. Similar to the digital in block you need to trigger the block to read the value. Any input sent to the block will serve as the trigger.
+
+
+- Configuration:
+    - Pin: pin number of the analog pin to read (Required)
+    - Name: Any name desired
+- Input
+    - Any input. Used as a trigger
+- Output
+    - Value of the pin from 0 to 1024 and the pin number as the topic with prefix A eg: {"payload": 965, "topic":"A0"}
+
+
+Analog Out
+----------
+
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture_7.PNG?raw=true
