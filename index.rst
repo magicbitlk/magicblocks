@@ -191,3 +191,17 @@ In electronics and technology, a reset button is a button that can reset a devic
 Getting Started
 ***************
 
+Log In to Your Magicblocks.io Account
+=====================================
+
+- Go to Magicblocks.io official website. www.magicblocks.io
+- Select LOGIN
+- Provide your login details.
+- Enter your email address and the Magicblocks Password and sign in to magicblocks
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS2.png
+
+Connecting to a WiFi network
+============================
+
+- Power up module from USB or Battery.
+- Connect your device as wifi access point of your computer.
