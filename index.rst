@@ -9,7 +9,9 @@ The `Internet of things <https://www.iotforall.com/what-is-iot-simple-explanatio
 Magicblocks.io Introduction
 ***************************
 
-Magicblocks.io is the IoT platform by [A&T Labs](atlabslanka.com) for building IoT applications with minimal hassle. Tried and tested over the years the lateset release of [magicblocks.io](magicblocks.io) will connect to more devices and do more thanks to the open source project Node-Red.
+Magicblocks.io is the IoT platform by `A&T Labs <http://atlabslanka.com>`_
+ for building IoT applications with minimal hassle. Tried and tested over the years the lateset release of `magicblocks.io  <http://magicblocks.io>`_
+will connect to more devices and do more thanks to the open source project Node-Red.
 magicblocks.io is a launchpad for learning and prototyping your internet of things. It consists of
  
 - Hardware suite made up of
@@ -179,7 +181,6 @@ Magicbit can connect various electronic sensors, electronically controlled actua
 CROCODILE CLIP
 --------------
 
-
 Magicbit crocodile clip connectors used to connect an electrical cable to a battery or some other component. Functioning much like a spring-loaded clothespin, the clip's tapered, serrated jaws are forced together by a spring to grip an object
 
 RESET BUTTON
@@ -208,5 +209,3 @@ Making the account of Magicblocks Developer
 - Follow the Activation Link which we have sent you as an email.
 
 .. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS1.png?raw=true
-
-
