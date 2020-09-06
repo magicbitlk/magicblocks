@@ -236,8 +236,8 @@ Start the Playground
 
 When you login for the first time your playground will not be running. Playground is the visual programming environment based on Node-Red that has been customized for seamless integration with hardware devices to enable IoT. If you do not have a valid subscription, you will be allowed to run the playground only for 1 hour continuously before it is automatically stopped. You will need to restart the playground manually after this 1 hour period.  You can subcribe to 3 months free subscription by enterting coupon code in Subscription tab provided with your magicbit device. If you have any issue please write to `info@magicbit.cc <info@magicbit.cc>`_
 
-.. image:: Images/playgroundview.PNG
-.. image:: Images/playgroundview-demomode.PNG
+.. image:: Images/playgroundview.png
+.. image:: Images/playgroundview-demomode.png
 
 Create a new device
 =====================================
@@ -261,11 +261,11 @@ Select COM port from drop down list and select magicblocks to install firmware.
   
 - Wait until uploading is completed and search for its configuration WiFi access point to come up. It would be named "Magicbit" in the default configuration
 
-.. image:: Images/WiFi Setup.png
+.. image:: Images/WiFiSetup.PNG
 
 - Connect to this WiFi access point and go to http://192.168.4.1
 
-.. image:: Images/portal-setup.PNG
+.. image:: Images/portal-setup.png
 
 - Fill in the device Id and the key that was generated in the previous step. You can change the **Name** to any name you like up to 32 characters. Select the WiFi SSID from the drop down and enter the WiFi password. If your WiFi is not listed here make sure the WiFi AP is active and reset the Magicbit board and retry.
 - Save the configuration. The default admin password is 12345. You can change this from the **Admin** tab
@@ -284,7 +284,7 @@ Go to the playground!
 
 - The playground is a hosted instance of a customized version of the open source Node-Red application. On the left you will find the palette where all the blocks will reside. You can drag and drop the blocks from the palette to the canvas and start rolling very quickly. Once done click the **Deploy** button on the top right corner and all your changes will be saved. In the next section we will go through some examples covering all the relevant blocks
 
-.. image:: Images/playground.PNG
+.. image:: Images/playground.png
 
 **********
 Hello Magicbit
