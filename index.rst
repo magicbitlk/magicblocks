@@ -254,7 +254,7 @@ Connect Magicbit to computer using provided USB cable.
 
 .. image:: Images/Connect.gif
 
-Download `**Magicbit utility tool** <http://magicbit.cc/MagicbitUtility.msi>`_ and install drivers
+Download `Magicbit utility tool <http://magicbit.cc/MagicbitUtility.msi>`_ and install drivers
 
 Select COM port from drop down list and select magicblocks to install firmware.
 .. image:: Images/Utility.PNG
@@ -318,19 +318,19 @@ Magicbit Blocks
 
 Following Blocks are available.
  
--Digital Out
--Digital In
--Analog Out/PWM
--Analog In
--Serial Tx
--Serial Rx
--Servo
--Display
--Buzzer
--Motor
--DHT11
--NeoPixel
--Ultrasonic
+-  Digital Out
+-  Digital In
+-  Analog Out/PWM
+-  Analog In
+-  Serial Tx
+-  Serial Rx
+-  Servo
+-  Display
+-  Buzzer
+-  Motor
+-  DHT11
+-  NeoPixel
+-  Ultrasonic
 
 This block set enables you to control individual pins of the device from the playground. The functionality of each block is described below:
 
