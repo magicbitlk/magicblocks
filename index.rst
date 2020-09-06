@@ -23,7 +23,7 @@ magicblocks.io is a launchpad for learning and prototyping your internet of thin
    - API services
 Everything has been designed to make the learning curve as shallow as possible for the newcomer and as flexible as possible for the advanced user. 
 
-.. image:: https://github.com/Magicblocks/magicblocks.io/blob/master/Images/image.png?raw=true
+
 
 
 
