@@ -261,7 +261,7 @@ Select COM port from drop down list and select magicblocks to install firmware.
   
 - Wait until uploading is completed and search for its configuration WiFi access point to come up. It would be named "Magicbit" in the default configuration
 
-.. image:: Images/WiFiSetup.PNG
+.. image:: Images/WiFiSetup.png
 
 - Connect to this WiFi access point and go to http://192.168.4.1
 
