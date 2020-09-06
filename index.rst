@@ -52,11 +52,156 @@ You can also create attractively online dashboards online without any coding
 
 .. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/dashboarde.png?raw=true
 
+****************
+What is Magicbit
+****************
+
+.. image:: https://github.com/magicbitlk/Magicbit-Arduino/raw/master/Resources/magicbit_unit.png
+
+
+
+This device is an Integrated development platform for learning and solution designing of electronics, robotics, Internet of Things and coding. The device can interact with a host of sensors such as light sensors, fire sensors, motion detectors etc. and output devices such as LEDs, switches, buzzers, speakers, motors etc. The hardware can be programmed using industry standard integrated development environment (IDE) that runs on PCs, Tablets, Mobile devices, or web platforms. This device supports a large number of programming platforms such as C++, python, scratch, magicblocks, mblock and codda, Hence the learning curve to learn to operate and utilize this device is shorter. Ardunio & MicroPython are for users with prior programming experience. Magicbit provides extension for mBlock3 for kids without programming knowledge. Codda is a visual programming language which same time can experience the true coding. Magicblocks is a NodeRed based platform for IoT solution design for any user group.
+ 
+This device also has the following special features:
+
+- In-built battery charger, WiFi & Bluetooth connectivity;
+- Integrated sensors and actuators to enable users to test and design projects without additional components;
+- An internal OLED display;
+- Plug & play feature to easily connect accessories;
+- An enclosure for productization of designs
+
+Brain of the Magicbit is ESP32, which is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth. Therefore any project or document available on internet which supports ESP32 is supported for Magicbit as well.
+
+*****************
+Hardware
+*****************
+
+Specifications
+==============
+
+- **Processor** - Xtensa dual-core
+- **Speed**- Up to 240Mhz
+- **Flash Memory**-4MB
+- **Ram**-520KB
+- **Inputs**-Pushbutton, LDR, Potentiometer
+- **Outputs**-LEDs, OLED Display, Buzzer
+- **Other**- Dual Motor Driver, Li-Ion Charger
+- **Connectivity**- USB, WiFi, Bluetooth
+
+
+Layout
+======
+
+.. image:: https://github.com/magicbitlk/Magicbit-Arduino/raw/master/Resources/features_frontTP.png
+.. image:: https://github.com/magicbitlk/Magicbit-Arduino/raw/master/Resources/features_backTP.png
+
+
+Pinmap
+======
+
+
+.. image:: https://github.com/Magicbitlk/arduino-esp32/raw/master/docs/pinout.png
+
+
+Features
+========
+
+
+
+LED
+---
+
+
+There are four leds on backside of the Magicbit with color red, yellow, green & blue. A LED(light-emitting diode) is a semiconductor light source that emits light when current flows through it. Blinking a LED is the hello world to the microcontroller programming world.
+
+
+BUTTON
+------
+
+There are two buttons on the front of the Magicbit. The push-button is a component that connects two points in a circuit when you press it. The example turns on an LED when you press the button.
+
+
+
+LDR
+---
+
+There is a LDR on the front of the Magicbit. LDR(Light Dependent Resistor) is a light-controlled variable resistor. The resistance of a photo-resistor decreases with increasing incident light intensity. You can measure light intensity using LDR as a analog output.
+
+
+POTENTIOMETER
+-------------
+
+The potentiometer is a component with rotating contact that forms an adjustable voltage divider. A potentiometer is a simple knob that provides a variable resistance, which we can read into the Magicbit board as an analog value.
+
+
+DISPLAY
+-------
+
+OLED (Organic Light Emitting Diodes) is a flat light emitting technology. OLED display has a film of organic compound that emits light in response to an electric current.You can display varoius graphics and text on the display.
+
+BUZZER
+------
+
+There is a buzzer on the front of the Magicbit. Buzzer is an electronic device commonly used to produce sound.
+
+
+
+BATTERY
+-------
+
+There is a Battery connector on the front of the Magicbit.Single cell rechargeable li-ion battery (3.7V) can be plugged in to a battery connector to puwer the Magicbit. Battery can be recharged by providing USb power to the Magicbit.
+
+
+MODULES
+-------
+
+There are four module connectors on the edge connector of the Magicbit, which we refer to as ports. Which can connect various accessories to Magicbit board and program to work with Magicbit. Matching accessory pin connector color marked on the Magicbit. As an example module with blue pin connector should plug in to blue port of the Magicbit.
+
+
+
+USB
+---
+
+There is a micro USB port on the back of the Magicbit.Connect the micro USB port to a mobile phone charger or computer through a cable and it will draw power required for the board to function and it also used program magibit and data transferring with a computer.
+
+WiFi
+----
+
+WiFi is a technology that uses radio waves to provide network connectivity. Magicbit consists with wifi module. WiFi  technology has widely spread lately and you can get connected almost anywhere; at home, at work, in libraries, schools, airports, hotels and even in some restaurants enabling IOT connectivity capabilities.
+
+
+BLUETOOTH
+---------
+
+
+Bluetooth is a wireless technology standard used for exchanging data between fixed and mobile devices over short distances using short-wavelength UHF radio waves.
+Magicbit consists with wifi module which enables IOT connectivity capabilities
+
+EXPANSION HEADER
+----------------
+
+Magicbit can connect various electronic sensors, electronically controlled actuators,etc to Magicbit via these external connectors
+
+CROCODILE CLIP
+--------------
+
+
+Magicbit crocodile clip connectors used to connect an electrical cable to a battery or some other component. Functioning much like a spring-loaded clothespin, the clip's tapered, serrated jaws are forced together by a spring to grip an object
+
+RESET BUTTON
+------------
+
+In electronics and technology, a reset button is a button that can reset a device. On Magicbit, the reset button restarts the Magicbit’s programme
 
 
 ***************
 Getting Started
 ***************
+
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Setup.png?raw=true
+
+`Watch Video <https://www.youtube.com/watch?v=p4vSKwN1cfI>`_
 
 Create Magicblocks.io Account
 ===========================================
@@ -86,73 +231,186 @@ Login to Your Magicblocks.io Account
 - Enter your email address and the Magicblocks Password and sign in to magicblocks
 .. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS2.png?raw=true
 
-Connecting to a WiFi network
-============================
+Start the Playground
+=====================================
 
-- Power up module from USB or Battery.
-- Connect your device as wifi access point of your computer.
+When you login for the first time your playground will not be running. Playground is the visual programming environment based on Node-Red that has been customized for seamless integration with hardware devices to enable IoT. If you do not have a valid subscription, you will be allowed to run the playground only for 1 hour continuously before it is automatically stopped. You will need to restart the playground manually after this 1 hour period.  You can subcribe to 3 months free subscription by enterting coupon code in Subscription tab provided with your magicbit device. If you have any issue please write to `info@magicbit.cc <info@magicbit.cc>`_
+
+.. image:: Images/playgroundview.PNG
+.. image:: Images/playgroundview-demomode.PNG
+
+Create a new device
+=====================================
+
+Go to Device Manager and add a new device.. Set device type as **Magicbit** & set status to **Active** . You can use any name and description. 
+
+.. image:: Images/createdevice.PNG
+
+Keep this browser tab open since you will need to copy the device Id and the key to setup the device in the next step.
+
+Setting up a device
+====================
+Connect Magicbit to computer using provided USB cable.
+
+.. image:: Images/Connect.gif
+
+Download `**Magicbit utility tool** <http://magicbit.cc/MagicbitUtility.msi>`_ and install drivers
+
+Select COM port from drop down list and select magicblocks to install firmware.
+.. image:: Images/Utility.PNG
+  
+- Wait until uploading is completed and search for its configuration WiFi access point to come up. It would be named "Magicbit" in the default configuration
+
+.. image:: Images/WiFi Setup.png
+
+- Connect to this WiFi access point and go to http://192.168.4.1
+
+.. image:: Images/portal-setup.PNG
+
+- Fill in the device Id and the key that was generated in the previous step. You can change the **Name** to any name you like up to 32 characters. Select the WiFi SSID from the drop down and enter the WiFi password. If your WiFi is not listed here make sure the WiFi AP is active and reset the Magicbit board and retry.
+- Save the configuration. The default admin password is 12345. You can change this from the **Admin** tab
+
+ .. image:: Images/portal-admin.PNG
+
+- Once saved, the Magicbit will restart and try to connect to the WiFi and then to magicblocks. You can connect to the Magicbit's configuration WiFi AP and navigate to http://192.168.4.1 to check the status of the connection. 
+- Login to magicblocks, navigate to **Device Manager** and check if the **Connection** column comes up as a blinking green indicator. If yes, you can proceed to the next step
+
+Go to the playground!
+=======================
+
+- Login to magicblocks and click on **Edit** to open the playground.
+
+.. image:: Images/playgroundview-active.PNG
+
+- The playground is a hosted instance of a customized version of the open source Node-Red application. On the left you will find the palette where all the blocks will reside. You can drag and drop the blocks from the palette to the canvas and start rolling very quickly. Once done click the **Deploy** button on the top right corner and all your changes will be saved. In the next section we will go through some examples covering all the relevant blocks
+
+.. image:: Images/playground.PNG
+
+**********
+Hello Magicbit
+**********
+
+Let's start magic with displaying a text on Magicbit display.
+
+ Open the Device Manager in your magicblocks account
+- Turn on your Magicbit board that was setup in the previous section and wait for it to connect
+- Copy the device Id of this Magicbit board
+- Open the playground
+- Drag and drop the **Display** block under the category **Magicbit**
+- Double click on the block and paste the device Id
+- Drag and drop an **inject** blocks under the **input** category and connect them to the **Display** block
+- In one **inject** node set payload type as String and type Hello Magicbit in the text box. You can set a topic too.
+- Click deploy
+- Click button in Inject node to see the magic. You can set any text from any where in the world!!!
+
+Watch on Youtube
+https://www.youtube.com/watch?v=6y6Ieq8vZbo
 
 
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS3.png?raw=true
+
+.. warning::  If you are not familiar with Magicblocks or Nodered you can quickly learn essential features from here. `https://magicbit-magicblocksio.readthedocs.io/en/latest/#playground <https://magicbit-magicblocksio.readthedocs.io/en/latest/#playground>`_
+
+***************
+Magicbit Blocks
+***************
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/magicbitNodes.PNG?raw=true
+
+Following Blocks are available.
+ 
+-Digital Out
+-Digital In
+-Analog Out/PWM
+-Analog In
+-Serial Tx
+-Serial Rx
+-Servo
+-Display
+-Buzzer
+-Motor
+-DHT11
+-NeoPixel
+-Ultrasonic
+
+This block set enables you to control individual pins of the device from the playground. The functionality of each block is described below:
+
+How Configure Blocks
+======================
+
+Every block has a property called Device ID where you need to specify to which device this block belongs to. This is important because you will be working with multiple devices in a typical IoT project. You can find device ID from magicblocks device manager.
+
+Digital Out
+-----------
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/digitalOut.png?raw=true
+
+This block is used to set a digital output pin to 1 or 0 based on the input. An input of 1 or true will make the configured pin go HIGH and vice versa
+
+- Configuration
+    - Pin: pin number of the Digital pin to write to. Available pins can be selected from dropdown list. 
+    - Name: Any name desired
+- Input
+    - value to be written to the pin. Accepts 1 (true) or 0 (false) eg: {"payload": 1} 
+
+Digital In
+----------
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/digitalIn.PNG?raw=true
 
 
-- Navigate to http://192.168.4.1in your browser
-
-- Select the WiFi network through which the Magicbit should connect to internet from the dropdown menu.
-
-- Enter the password of the WiFi network selected previously.
-
-- Click 'Submit' and you will receive a message “Access point saved. Restarting…”
-
-- If connection to WiFi is successful, navigate to the Device Manager of your magicblocks account (refresh if already opened) and you should see that the connection is showing a green 'thumbs up' icon.
-
-_After setting up Magicbit ,you can disconnect it from your computer Network setting and connect your default access point for getting access to the Internet._
-
-Add your Magicbit Device
-
-- Click on Device Manager button of your Magicblocks Account
-
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS4.png?raw=true
+This block will read Input status of a pin. There are two methods to get input 
+1. Poll - Block need to triggered to get input status. Any input will serve as a trigger. (eg:inject block)
+2. Interrupt - If there is any change of pin state of Magicbit block will output the current state
+Input status can be passed to a another block or viewed on the debug window.
 
 
-- Click on Add Device
+- Configuration:
+    - Pin: pin number of the digital pin to read .Select from drop down list
+    - Name: Any name desired
+    - Method: Poll/Interrupt
+- Input
+    - Any input. Used as a trigger
+- Output
+    - Value of the pin as 1 or 0 in the following format and the pin number as the topic
 
-- Fill out following details
-
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS5.png?raw=true
-
-
-- Device ID: (which is printed on the top side of your device chip)
-
-- Serial Key:(which is printed on the top side of your device chip)
-
-- Name:Any Name
-
-Activate PLAYGROUND in Magicblocks.io.
-======================================
-
-All your Flows create in magicblocks should be create on your PLAYGROUND. Therefore activate it firstly.
-
-Follow these steps to do it!
-- Go to the Playground tab in your Magicblocks developer account
-
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Untitled-1-1024x576.jpg?raw=true
+Analog Out
+----------
 
 
-Activate the playground using **start playground** reference. Then the web page appears as follows. (If you entering the playground the web page appears in bellow picture, you don't want to follow above steps)
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/analogOut.PNG?raw=true
 
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Untitled-2-1024x576.jpg?raw=true
+This block used to set PWM to pins of Magicbit. Value should be in range of 0-255. Inject block or output of a another block can be used to set the value.
+
+- Configuration:
+    - Pin: pin number of the to set PWM. Select from drop down list
+    - Name: Any name desired
+
+- Input
+    - Inject block or any block. Input value should be in range of 0-255
+
+Analog In
+---------
+
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/analogIn.PNG?raw=true
 
 
-- The **Edit** button showing with dotted line in the above picture you can enter the playground.
+This block will read analog value of the ADC pin of the module. Similar to the digital in block you need to set method to read the value. Any input sent to the block will serve as the trigger.
+1. Poll - Block need to triggered to get input status. Any input will serve as a trigger. (eg:inject block)
+2. Interrupt - If there is any change greater or less than threshold value of Magicbit block will output the analog value
 
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/3-1024x576.jpg?raw=true
+- Configuration:
+    - Pin: pin number of the analog pin to read (Required)
+    - Name: Any name desired
+    - Method: Poll/Interrupt
+    - Threshold: If interrupt method selected value return from output if there is any change greater or less than this value
+
+
+- Input
+    - Any input. Used as a trigger
+- Output
+    - Value of the pin from 0 to 4096 (12bit ADC)  {"payload": 965}
 
 
 
-- To create the Magicblocks.io platform, first you need to add your Magicblocks.io device to your Magicblocks Developer Account. Do it according the following video.
-
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/image1.png?raw=true
 
 *************************
 Playground 
@@ -203,8 +461,6 @@ Deleting a flow
 
 To delete a flow, click the ‘Delete’ button in the Flow Properties dialog.
 
-
-
 Nodes
 ======
 Nodes can be added to the workspace by either:
@@ -228,19 +484,6 @@ If a node has any undeployed changes, it displays a blue circle above it. If the
 
 Some nodes include a button on either its left or right edge. These allow some interaction with the node from within the editor. The Inject and Debug nodes are the only core nodes that have buttons.
 
-Quick-Add dialog
-----------------
-
-
-The Quick-Add dialog provides an easy way to add a node to the workspace wherever the mouse is, without having to drag it over from the palette.
-
-The dialog is opened by holding the **Ctrl** or **Command** key when clicking on the workspace.
-
-The dialog contains a complete list of all nodes available to add. It shows the five main core nodes at the top of the list, followed by any recently added nodes and finally a complete, alphabetical, list of the remaining nodes.
-
-As with the main palette, the dialog has an input at the top to filter the list and quickly find a node.
-
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/editor-quick-add.png?raw=true
 
 
 
@@ -587,94 +830,5 @@ There are four types of rule:
 - An **Otherwise** rule can be used to match if none of the preceding rules have matched.
 The node will route a message to all outputs corresponding to matching rules. But it can also be configured to stop evaluating rules when it finds one that matches.
 
-***************
-Magicbit Blocks
-***************
-
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Blocks.PNG?raw=true
-
-ESP blocks set can be used with any ESP8266 based device including MagicWiFi. Following blocks are available, 
-
--Digital in
--Analog In
--Digital Out
--PWM (Analog Out)
--Servo
--Serial In
--Serial Out
-
-This block set enables you to control individual pins of the device from the playground. The functionality of each block is described below:
-
-How to attach a device
-======================
-
-Every block has a property called Device ID where you need to specify to which device this block belongs to. This is important because you will be working with multiple devices in a typical IoT project. To control a device (eg: MagicWiFi) via the playground you need to add the device as in Lesson 3 and if you have already done so, attach it to the playground according to the description below.
-
-To attach a device ID for the first time, select 'Add new esp' and click the edit button as shown below. If you have already added the device as in Lesson 3, it will be visible to you in the dropdown and you can select the device from there.
-
-Copy the ID in device manager of magicblocks and paste in to device id in the Node Properties Device ID 
 
 
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture_2.PNG?raw=true
-
-
-
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture%201.PNG?raw=true
-
-
-In the next dialog click the search button which will display all your added devices. Select the device you want to add and click 'Add'. Once you have added a device you can select it from the dropdown in the respective node.
-
-Except serial blocks every other block have property called Pin which will identify specific pin of the module. 
-
-Digital In
-----------
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture_3.PNG?raw=true
-
-
-This block will read Input status of a pin. Block need to triggered to get input status. Any input will serve as a trigger. Inject node can be used for this purpose.Input status can be passed to a another block or viewed on the debug window.
-
-
-- Configuration:
-    - Pin: pin number of the digital pin to read (Required)
-    - Name: Any name desired
-- Input
-    - Any input. Used as a trigger
-- Output
-    - Value of the pin as 1 or 0 in the following format and the pin number as the topic
-
-Digital Out
------------
-
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture_4.PNG?raw=true
-
-This block is used to set a digital output pin to 1 or 0 based on the input. An input of 1 or true will make the configured pin go HIGH and vice versa
-
-- Configuration
-    - Pin: pin number of the Digital pin to write to
-    - Name: Any name desired
-- Input
-    - value to be written to the pin. Accepts 1 (true) or 0 (false) eg: {"payload": 1}
-
-Analog In
----------
-
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture_6.PNG?raw=true
-
-
-This block will read analog value of the ADC pin of the module. Similar to the digital in block you need to trigger the block to read the value. Any input sent to the block will serve as the trigger.
-
-
-- Configuration:
-    - Pin: pin number of the analog pin to read (Required)
-    - Name: Any name desired
-- Input
-    - Any input. Used as a trigger
-- Output
-    - Value of the pin from 0 to 1024 and the pin number as the topic with prefix A eg: {"payload": 965, "topic":"A0"}
-
-
-Analog Out
-----------
-
-
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Capture_7.PNG?raw=true
