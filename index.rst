@@ -26,7 +26,7 @@ Any ioT creation you want to connect with nodes without any coding and your proj
 
 You can also create attractively online dashboards online without any coding
 
-.. image:: https://github.com/Magicblocks/magicblocks.io/blob/master/Images/pasted-image-0-768x432.png?raw=true
+.. image:: https://github.com/Magicblocks/magicblocks.io/blob/master/Images/playground.png?raw=true
 
 
 
@@ -81,74 +81,70 @@ Getting Started
 Create Magicblocks.io Account
 ===========================================
 
-- Go to magicblocks website `http://magicblocks.io/ <http://magicblocks.io/>`_
+- Go to magicblocks website `https://magicblocks.io/ <https://magicblocks.io/>`_
 
 
 - Select SIGNUP
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/pasted-image-0-1-1024x576.png?raw=true
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/landing-page.png?raw=true
 
-- Click on the SIGN UP button after inserted your details
+- Click on the SIGNUP button after inserted your details
 
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/pasted-image-0-2-1024x576.png?raw=true
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/signup.png?raw=true
 - Go to the email account you provided and activate your Magicblocks account with the Activation Link
 
 - Follow the Activation Link which we have sent you as an email.
 
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS1.png?raw=true
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/verification.png?raw=true
 
 
 Login to Your Magicblocks.io Account
 =====================================
 
-- Go to Magicblocks.io official website. www.magicblocks.io
+- Go to Magicblocks.io official website. `https://magicblocks.io/ <https://magicblocks.io/>`_
 - Select LOGIN
 - Provide your login details.
 - Enter your email address and the Magicblocks Password and sign in to magicblocks
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/SS2.png?raw=true
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/login.png?raw=true
 
 Start the Playground
 =====================================
 
-When you login for the first time your playground will not be running. Playground is the visual programming environment based on Node-Red that has been customized for seamless integration with hardware devices to enable IoT. If you do not have a valid subscription, you will be allowed to run the playground only for 1 hour continuously before it is automatically stopped. You will need to restart the playground manually after this 1 hour period.  You can subcribe to 3 months free subscription by enterting coupon code in Subscription tab provided with your magicbit device. If you have any issue please write to `info@magicbit.cc <info@magicbit.cc>`_
+The playground is the visual programming environment based on Node-Red that has been customized for seamless integration with hardware devices to enable IoT. When you log in for the first time, your playground will not be running.  If you do not have a valid subscription, you will be allowed to run the playground only for 1 hour continuously before it is automatically stopped. You will need to wait for 1hour to start the playground again. You can subscribe to the Standard Subscription  by entering the coupon code in the Subscription tab provided with your Magicbit device. If you have any issue please write to `info@magicbit.cc <info@magicbit.cc>`_
 
-.. image:: Images/playgroundview.png
-.. image:: Images/playgroundview-demomode.png
+.. image:: Images/portal.png
+.. image:: Images/subscription.png
 
 Create a new device
 =====================================
 
-Go to Device Manager and add a new device.. Set device type as **Magicbit** & set status to **Active** . You can use any name and description. 
+Go to Device Manager and add a new device. Select your **device type**  & keep the status as **Active**. You can use any name and description. Click save changes to finish.
 
-.. image:: Images/createdevice.PNG
+.. image:: Images/create-a-device.PNG
 
-Keep this browser tab open since you will need to copy the device Id and the key to setup the device in the next step.
 
 Setting up a device
 ====================
-Connect Magicbit to computer using provided USB cable.
+Connect your device to computer using USB cable.
 
-.. image:: Images/Connect.gif
+.. image:: Images/usb-plugging-magicbit-core.png
 
-Download `Magicbit utility tool <http://magicbit.cc/MagicbitUtility.msi>`_ and install drivers
+click on the setting icon on device manager of your device.
 
-Select COM port from drop down list and select magicblocks to install firmware.
-.. image:: Images/Utility.PNG
-  
-- Wait until uploading is completed and search for its configuration WiFi access point to come up. It would be named "Magicbit" in the default configuration
+.. image:: Images/magicblocks-device-setup.png
 
-.. image:: Images/WiFiSetup.png
+Select your device and follow instructions to load magicblocks.io firmware.
 
-- Connect to this WiFi access point and go to http://192.168.4.1
+.. image:: Images/select-device.png
 
-.. image:: Images/portal-setup.png
+On next window enter your internet router WiFi network name (SSID) and password
 
-- Fill in the device Id and the key that was generated in the previous step. You can change the **Name** to any name you like up to 32 characters. Select the WiFi SSID from the drop down and enter the WiFi password. If your WiFi is not listed here make sure the WiFi AP is active and reset the Magicbit board and retry.
-- Save the configuration. The default admin password is 12345. You can change this from the **Admin** tab
+.. image:: Images/setup-wifi-network.png
 
- .. image:: Images/portal-admin.png
+On next stage configure the device using USB method. If it didn’t work you can retry again or use WIFi option to configure device. You will get a message after the successful configuration.
 
-- Once saved, the Magicbit will restart and try to connect to the WiFi and then to magicblocks. You can connect to the Magicbit's configuration WiFi AP and navigate to http://192.168.4.1 to check the status of the connection. 
-- Login to magicblocks, navigate to **Device Manager** and check if the **Connection** column comes up as a blinking green indicator. If yes, you can proceed to the next step
+.. image:: Images/configure-wifi.jpg
+
+
 
 Go to the playground!
 =======================
