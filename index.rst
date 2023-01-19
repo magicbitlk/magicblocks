@@ -149,13 +149,13 @@ On next stage configure the device using USB method. If it didn’t work you can
 Go to the playground!
 =======================
 
-- Login to magicblocks and click on **Edit** to open the playground.
+- Login to Magicblocks and click on Playground Button to open the playground. To open the playground you should have started it from the home page.
 
-.. image:: Images/playgroundview-active.png
+.. image:: Images/openplayground.PNG
 
 - The playground is a hosted instance of a customized version of the open source Node-Red application. On the left you will find the palette where all the blocks will reside. You can drag and drop the blocks from the palette to the canvas and start rolling very quickly. Once done click the **Deploy** button on the top right corner and all your changes will be saved. In the next section we will go through some examples covering all the relevant blocks
 
-.. image:: Images/playground.PNG
+.. image:: Images/blankplayground.PNG
 
 **********
 Hello Magicbit
