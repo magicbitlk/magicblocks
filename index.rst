@@ -118,7 +118,7 @@ Create a new device
 
 Go to Device Manager and add a new device. Select your **device type**  & keep the status as **Active**. You can use any name and description. Click save changes to finish.
 
-.. image:: Images/create%20a%20device.png
+.. image:: Images/createadevice.png
 
 
 Setting up a device
