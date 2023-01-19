@@ -3,29 +3,21 @@
 What is Internet of Things
 *****************************************************
 
-The `Internet of things <https://www.iotforall.com/what-is-iot-simple-explanation/>`_ is nothing new. It is an evolutionary next step in the machine to machine communication paradigm. With an ever increasing number of 'things' at our disposal the need for connected 'things' has grown rapidly. However with increasing options comes added complexity which introduces steep learning curves and more importantly more confusion. What devices should I use? What cloud platform will best server my interest? I am new to IoT where should I start? Those are the question that would linger in any one who would dare to wonder in to the internet of Things. We, at `magicblocks.io <http://magicblocks.io>`_ have put some magic to work to make the life of both the newcomer and the professional one step easier.
+The Internet of Things (IoT) is a network of physical devices, vehicles, buildings, and other items that are embedded with sensors, software, and connectivity, enabling them to collect and exchange data. It allows everyday objects to be connected to the internet and communicate with each other, creating smart systems that can be controlled and monitored remotely. Examples of IoT devices include smart thermostats, refrigerators, door locks, and cameras. Additionally, IoT is used in various industries such as transportation and manufacturing to track vehicles, optimize routes, and monitor machinery performance.
+Having an easy way to learn and develop IoT applications is crucial for both students and industry experts. It allows them to quickly prototype and test their ideas, saving time and resources. User-friendly tools such as dashboards make it easier to understand and analyze data from IoT devices, helping to make better decisions and improve the overall performance of the systems. For students, learning about and experimenting with IoT technology can provide hands-on experience and skills that are in high demand in the job market. For industry experts, easy-to-use tools can help them stay competitive in the market and quickly adapt to new technologies.
+
 
 ***************************
-Magicblocks.io Introduction
+What is Magicblocks.io 
 ***************************
 
-Magicblocks.io is the IoT platform by `A&T Labs <http://atlabslanka.com>`_ for building IoT applications with minimal hassle. Tried and tested over the years the lateset release of `magicblocks.io  <http://magicblocks.io>`_
-will connect to more devices and do more thanks to the open source project Node-Red.
-magicblocks.io is a launchpad for learning and prototyping your internet of things. It consists of
- 
-- Hardware suite made up of
-    - Development boards
-    - Prototyping kits for sensors & actuators
-- Cloud platform made up of
-   -  Drag and drop editor to easily cook up your solutions
-   -  Dashboards to visualize your data
-   - Data storage
-   - API services
-Everything has been designed to make the learning curve as shallow as possible for the newcomer and as flexible as possible for the advanced user. 
+magicbicblocks.io is an easy-to-use IoT platform that supports ESP32-based development boards and utilizes Node-RED, a visual programming tool that allows for drag-and-drop connection of different IoT devices and services, eliminating the need for complex coding. The platform offers pre-built blocks and sample applications, supports a variety of sensors and actuators, and provides cloud-based data storage and remote access. Overall, magicbicblocks.io is a powerful tool for anyone looking to quickly prototype and develop IoT applications.
 
+How Magicblocks works
+=============================
 
-
-
+The three main components of IoT are devices, cloud, and connectivity. Devices are the physical objects that are embedded with sensors and software that collect and exchange data. Cloud refers to the remote servers where this data is stored and analyzed. Connectivity is the means by which these devices and cloud services communicate, such as Wi-Fi, Bluetooth, or cellular networks. 
+In a system using magicblocks, it acts as the cloud component, where data is stored and analyzed. The devices component is fulfilled by using ESP32-based hardware which are embedded with sensors and software. The connectivity method used is WiFi, which enables the communication between the devices and the cloud. Together, these components make it possible to create a smart system that can be monitored and controlled remotely.
 
 Magicblocks.io Playground
 =============================
@@ -35,8 +27,6 @@ Any ioT creation you want to connect with nodes without any coding and your proj
 You can also create attractively online dashboards online without any coding
 
 .. image:: https://github.com/Magicblocks/magicblocks.io/blob/master/Images/pasted-image-0-768x432.png?raw=true
-
-
 
 
 
@@ -53,145 +43,30 @@ You can also create attractively online dashboards online without any coding
 .. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/dashboarde.png?raw=true
 
 ****************
-What is Magicbit
-****************
-
-.. image:: https://github.com/magicbitlk/Magicbit-Arduino/raw/master/Resources/magicbit_unit.png
-
-
-
-This device is an Integrated development platform for learning and solution designing of electronics, robotics, Internet of Things and coding. The device can interact with a host of sensors such as light sensors, fire sensors, motion detectors etc. and output devices such as LEDs, switches, buzzers, speakers, motors etc. The hardware can be programmed using industry standard integrated development environment (IDE) that runs on PCs, Tablets, Mobile devices, or web platforms. This device supports a large number of programming platforms such as C++, python, scratch, magicblocks, mblock and codda, Hence the learning curve to learn to operate and utilize this device is shorter. Ardunio & MicroPython are for users with prior programming experience. Magicbit provides extension for mBlock3 for kids without programming knowledge. Codda is a visual programming language which same time can experience the true coding. Magicblocks is a NodeRed based platform for IoT solution design for any user group.
- 
-This device also has the following special features:
-
-- In-built battery charger, WiFi & Bluetooth connectivity;
-- Integrated sensors and actuators to enable users to test and design projects without additional components;
-- An internal OLED display;
-- Plug & play feature to easily connect accessories;
-- An enclosure for productization of designs
-
-Brain of the Magicbit is ESP32, which is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth. Therefore any project or document available on internet which supports ESP32 is supported for Magicbit as well.
-
-*****************
 Hardware
-*****************
+****************
+The hardware or device component in IoT refers to the physical objects embedded with sensors, software, and connectivity that collect and exchange data, creating smart systems that can be controlled and monitored remotely.
 
-Specifications
-==============
+We use ESP32 based hardware for Magicblocks.io. ESP32 is a powerful and versatile microcontroller that is well-suited for IoT projects. Its combination of low cost, small form factor, and built-in wireless capabilities make it an ideal choice for a wide range of applications. And the availability of development boards makes it easy for developers to prototype and test their ideas.
+Using ESP32 for IoT projects is a great choice for several reasons:
+•	It is low cost, yet powerful enough for many IoT applications.
+•	It has built-in wireless capabilities, eliminating the need for separate modules.
+•	It has a small form factor, making it easy to integrate into a variety of devices.
+•	It has a large and active community of developers, providing a wealth of resources and support.
 
-- **Processor** - Xtensa dual-core
-- **Speed**- Up to 240Mhz
-- **Flash Memory**-4MB
-- **Ram**-520KB
-- **Inputs**-Pushbutton, LDR, Potentiometer
-- **Outputs**-LEDs, OLED Display, Buzzer
-- **Other**- Dual Motor Driver, Li-Ion Charger
-- **Connectivity**- USB, WiFi, Bluetooth
+ESP32 Dev Kit 
+=============
+ESP32 Dev Kit is a compact development board based on the ESP32 microcontroller, designed for easy prototyping and programming. It has an on-board USB-to-Serial converter and built-in support for a wide range of sensors and actuators. It is a popular development board for IoT projects.
 
+Magicbit
+========
+Magicbit is an ESP32-based development board that features in-built battery charger, WiFi & Bluetooth connectivity, integrated sensors and actuators, an internal OLED display, and a plug & play feature for easy connection of accessories, enabling users to easily test and design projects.
 
-Layout
-======
-
-.. image:: https://github.com/magicbitlk/Magicbit-Arduino/raw/master/Resources/features_frontTP.png
-.. image:: https://github.com/magicbitlk/Magicbit-Arduino/raw/master/Resources/features_backTP.png
-
-
-Pinmap
-======
-
-
-.. image:: https://github.com/Magicbitlk/arduino-esp32/raw/master/docs/pinout.png
-
-
-Features
+M5 Stack
 ========
 
+M5Stack is a line of modular, stackable, and portable development boards based on the ESP32 microcontroller, which are often used for IoT projects and also include additional modules for more functionality.
 
-
-LED
----
-
-
-There are four leds on backside of the Magicbit with color red, yellow, green & blue. A LED(light-emitting diode) is a semiconductor light source that emits light when current flows through it. Blinking a LED is the hello world to the microcontroller programming world.
-
-
-BUTTON
-------
-
-There are two buttons on the front of the Magicbit. The push-button is a component that connects two points in a circuit when you press it. The example turns on an LED when you press the button.
-
-
-
-LDR
----
-
-There is a LDR on the front of the Magicbit. LDR(Light Dependent Resistor) is a light-controlled variable resistor. The resistance of a photo-resistor decreases with increasing incident light intensity. You can measure light intensity using LDR as a analog output.
-
-
-POTENTIOMETER
--------------
-
-The potentiometer is a component with rotating contact that forms an adjustable voltage divider. A potentiometer is a simple knob that provides a variable resistance, which we can read into the Magicbit board as an analog value.
-
-
-DISPLAY
--------
-
-OLED (Organic Light Emitting Diodes) is a flat light emitting technology. OLED display has a film of organic compound that emits light in response to an electric current.You can display varoius graphics and text on the display.
-
-BUZZER
-------
-
-There is a buzzer on the front of the Magicbit. Buzzer is an electronic device commonly used to produce sound.
-
-
-
-BATTERY
--------
-
-There is a Battery connector on the front of the Magicbit.Single cell rechargeable li-ion battery (3.7V) can be plugged in to a battery connector to puwer the Magicbit. Battery can be recharged by providing USb power to the Magicbit.
-
-
-MODULES
--------
-
-There are four module connectors on the edge connector of the Magicbit, which we refer to as ports. Which can connect various accessories to Magicbit board and program to work with Magicbit. Matching accessory pin connector color marked on the Magicbit. As an example module with blue pin connector should plug in to blue port of the Magicbit.
-
-
-
-USB
----
-
-There is a micro USB port on the back of the Magicbit.Connect the micro USB port to a mobile phone charger or computer through a cable and it will draw power required for the board to function and it also used program magibit and data transferring with a computer.
-
-WiFi
-----
-
-WiFi is a technology that uses radio waves to provide network connectivity. Magicbit consists with wifi module. WiFi  technology has widely spread lately and you can get connected almost anywhere; at home, at work, in libraries, schools, airports, hotels and even in some restaurants enabling IOT connectivity capabilities.
-
-
-BLUETOOTH
----------
-
-
-Bluetooth is a wireless technology standard used for exchanging data between fixed and mobile devices over short distances using short-wavelength UHF radio waves.
-Magicbit consists with wifi module which enables IOT connectivity capabilities
-
-EXPANSION HEADER
-----------------
-
-Magicbit can connect various electronic sensors, electronically controlled actuators,etc to Magicbit via these external connectors
-
-CROCODILE CLIP
---------------
-
-
-Magicbit crocodile clip connectors used to connect an electrical cable to a battery or some other component. Functioning much like a spring-loaded clothespin, the clip's tapered, serrated jaws are forced together by a spring to grip an object
-
-RESET BUTTON
-------------
-
-In electronics and technology, a reset button is a button that can reset a device. On Magicbit, the reset button restarts the Magicbit’s programme
 
 
 ***************
