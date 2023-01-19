@@ -158,28 +158,29 @@ Go to the playground!
 .. image:: Images/blankplayground.PNG
 
 **********
-Hello Magicbit
+Your first IoT project
 **********
 
-Let's start magic with displaying a text on Magicbit display.
+Let's start magic with controlling LED over the internet
 
  Open the Device Manager in your magicblocks account
-- Turn on your Magicbit board that was setup in the previous section and wait for it to connect
-- Copy the device Id of this Magicbit board
-- Open the playground
-- Drag and drop the **Display** block under the category **Magicbit**
-- Double click on the block and paste the device Id
-- Drag and drop an **inject** blocks under the **input** category and connect them to the **Display** block
-- In one **inject** node set payload type as String and type Hello Magicbit in the text box. You can set a topic too.
+- Turn on your ESP32 board that was setup in the previous section and wait for it to connect
+- Goto the playground
+- Drag and drop the **Digital Out** block under the category **Magicbit/ESP32**
+- Double click on the block and select device ID
+- Set LED connected pin (16 in Magicbit / 2 in ESP32 Dev kit)
+- Drag and drop two **inject** blocks under the **input** category and connect them to the **Digital Out** block
+- In one **inject** node set payload type as Number and set value to 0
+- In Other **inject** node set payload type as Number and set value to 1 
 - Click deploy
-- Click button in Inject node to see the magic. You can set any text from any where in the world!!!
+- Click button in Inject nodes to see the magic. You can control this LED from any where in the world!!!
 
 Watch on Youtube
 https://www.youtube.com/watch?v=6y6Ieq8vZbo
 
 
 
-.. warning::  If you are not familiar with Magicblocks or Nodered you can quickly learn essential features from here. `https://magicbit-magicblocksio.readthedocs.io/en/latest/#playground <https://magicbit-magicblocksio.readthedocs.io/en/latest/#playground>`_
+.. info::  If you are not familiar with Magicblocks or Nodered you can quickly learn essential features from here. `https://magicbit-magicblocksio.readthedocs.io/en/latest/#playground <https://magicbit-magicblocksio.readthedocs.io/en/latest/#playground>`_
 
 ***************
 Magicbit Blocks
@@ -213,7 +214,7 @@ Every block has a property called Device ID where you need to specify to which d
 Digital Out
 -----------
 
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/digitalOut.png?raw=true
+.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/digitalOut.PNG?raw=true
 
 This block is used to set a digital output pin to 1 or 0 based on the input. An input of 1 or true will make the configured pin go HIGH and vice versa
 
