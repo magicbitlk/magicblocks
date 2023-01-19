@@ -85,7 +85,7 @@ Create Magicblocks.io Account
 
 
 - Select SIGNUP
-.. image:: Images/landing-page.png
+.. image:: Images/landing%20page.png
 
 - Click on the SIGNUP button after inserted your details
 
@@ -119,26 +119,26 @@ Create a new device
 
 Go to Device Manager and add a new device. Select your **device type**  & keep the status as **Active**. You can use any name and description. Click save changes to finish.
 
-.. image:: Images/create-a-device.PNG
+.. image:: Images/create%20a%20device.png
 
 
 Setting up a device
 ====================
 Connect your device to computer using USB cable.
 
-.. image:: Images/usb-plugging-magicbit-core.png
+.. image:: Images/usb-plugging-magicbit-core.jpg
 
 click on the setting icon on device manager of your device.
 
-.. image:: Images/magicblocks-device-setup.png
+.. image:: Images/magicblocks-device-setup.jpg
 
 Select your device and follow instructions to load magicblocks.io firmware.
 
-.. image:: Images/select-device.png
+.. image:: Images/select-device.jpg
 
 On next window enter your internet router WiFi network name (SSID) and password
 
-.. image:: Images/setup-wifi-network.png
+.. image:: Images/setup-wifi-network.jpg
 
 On next stage configure the device using USB method. If it didn’t work you can retry again or use WIFi option to configure device. You will get a message after the successful configuration.
 
