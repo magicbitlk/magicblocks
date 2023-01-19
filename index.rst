@@ -26,7 +26,7 @@ Any ioT creation you want to connect with nodes without any coding and your proj
 
 You can also create attractively online dashboards online without any coding
 
-.. image:: https://github.com/Magicblocks/magicblocks.io/blob/master/Images/playground.png?raw=true
+.. image:: Images/playground.png
 
 
 
@@ -40,7 +40,7 @@ Any ioT creation you want to connect with nodes without any coding and your proj
 
 You can also create attractively online dashboards online without any coding
 
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/dashboarde.png?raw=true
+.. image:: Images/dashboarde.png
 
 ****************
 Hardware
@@ -74,7 +74,7 @@ Getting Started
 ***************
 
 
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/Setup.png?raw=true
+.. image:: Images/Setup.png
 
 `Watch Video <https://www.youtube.com/watch?v=p4vSKwN1cfI>`_
 
@@ -85,16 +85,16 @@ Create Magicblocks.io Account
 
 
 - Select SIGNUP
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/landing-page.png?raw=true
+.. image:: Images/landing-page.png
 
 - Click on the SIGNUP button after inserted your details
 
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/signup.png?raw=true
+.. image:: Images/signup.png
 - Go to the email account you provided and activate your Magicblocks account with the Activation Link
 
 - Follow the Activation Link which we have sent you as an email.
 
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/verification.png?raw=true
+.. image:: Images/verification.png
 
 
 Login to Your Magicblocks.io Account
@@ -104,7 +104,7 @@ Login to Your Magicblocks.io Account
 - Select LOGIN
 - Provide your login details.
 - Enter your email address and the Magicblocks Password and sign in to magicblocks
-.. image:: https://github.com/magicbitlk/Magicbit-Magicblocks.io/blob/master/Images/login.png?raw=true
+.. image:: Images/login.png
 
 Start the Playground
 =====================================
