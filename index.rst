@@ -14,7 +14,7 @@
       
 .. image:: Images/magicblocks-device-setup.jpg
     :class: with-border with-shadow
-    :width: 400px      
+    :width: 800px      
 
 
 
