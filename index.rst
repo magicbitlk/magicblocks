@@ -13,8 +13,8 @@
       Oranges are orangeeee.   
       
 .. image:: Images/magicblocks-device-setup.jpg
-    :class: with-border
-    :width: 100px      
+    :class: with-border with-shadow
+    :width: 400px      
 
 
 
