@@ -12,7 +12,9 @@
 
       Oranges are orangeeee.   
       
-      
+.. image:: Images/magicblocks-device-setup.jpg
+    :class: with-border
+    :width: 100px      
 
 
 
@@ -216,14 +218,6 @@ Setting up a device
         On next stage configure the device using USB method. If it didn’t work you can retry again or use WIFi option to configure device. You will get a message after the successful configuration.
 
         .. image:: Images/configure-wifi-ESP32.jpg
-
-
-
-
-
-
-.. image:: Images/magicblocks-device-setup.jpg
-    :class: with-border
 
 
 
