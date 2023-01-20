@@ -223,7 +223,7 @@ Setting up a device
 
 
 .. image:: Images/magicblocks-device-setup.jpg
-    :fig-border: yes
+
 
 
 
