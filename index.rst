@@ -222,8 +222,8 @@ Setting up a device
 
 
 
-.. image:: Images/magicblocks-device-setup-magickey.png
-
+.. image:: Images/magicblocks-device-setup.png
+    :fig-border: yes
 
 
 
