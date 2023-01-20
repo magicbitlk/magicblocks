@@ -1,4 +1,4 @@
-project = "sphinx-tabs"
+project = "magicblocks"
 master_doc = "index"
 source_suffix = ".rst"
 extensions = ["sphinx_tabs.tabs"]
