@@ -143,10 +143,89 @@ Setting up a device
       Oranges are orangeeee.   
       
       
-.. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/6Dakd7EIgBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>      
       
+      
+      
+        
+.. tabs::
+
+    .. tab:: Magicbit
+
+        Connect your device to computer using USB cable.
+
+        .. image:: Images/usb-plugging-magicbit-core.jpg
+
+        click on the setting icon on device manager of your device.
+
+        .. image:: Images/magicblocks-device-setup.jpg
+
+        Select your device and follow instructions to load magicblocks.io firmware.
+
+        .. image:: Images/select-device.jpg
+
+        On next window enter your internet router WiFi network name (SSID) and password
+
+        .. image:: Images/setup-wifi-network.jpg
+
+        On next stage configure the device using USB method. If it didn’t work you can retry again or use WIFi option to configure device. You will get a message after the successful configuration.
+
+        .. image:: Images/configure-wifi.jpg
+        
+        
+    .. tab:: MagicKey
+
+        Connect your device to computer using USB cable.
+
+        .. image:: Images/usb-plugging-magickey.jpg
+
+        click on the setting icon on device manager of your device.
+
+        .. image:: Images/magicblocks-device-setup-magickey.jpg
+
+        Select your device and follow instructions to load magicblocks.io firmware.
+
+        .. image:: Images/select-device-magic-key.jpg
+
+        On next window enter your internet router WiFi network name (SSID) and password
+
+        .. image:: Images/setup-wifi-network.jpg
+
+        On next stage configure the device using USB method. If it didn’t work you can retry again or use WIFi option to configure device. You will get a message after the successful configuration.
+
+        .. image:: Images/configure-wifi-magickey.jpg
+
+
+    .. tab:: Generic ESP32
+
+        Connect your device to computer using USB cable.
+
+        .. image:: Images/usb-plugging-ESP32.jpg
+
+        click on the setting icon on device manager of your device.
+
+        .. image:: Images/magicblocks-device-setup-ESP32.jpg
+
+        Select your device and follow instructions to load magicblocks.io firmware.
+
+        .. image:: Images/select-device-ESP32.jpg
+
+        On next window enter your internet router WiFi network name (SSID) and password
+
+        .. image:: Images/setup-wifi-network.jpg
+
+        On next stage configure the device using USB method. If it didn’t work you can retry again or use WIFi option to configure device. You will get a message after the successful configuration.
+
+        .. image:: Images/configure-wifi-ESP32.jpg
+
+
+
+
+
+
+.. image:: Images/magicblocks-device-setup-magickey.png
+
+
+
 
 Connect your device to computer using USB cable.
 
