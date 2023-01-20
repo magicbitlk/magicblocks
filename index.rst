@@ -1,3 +1,21 @@
+.. tabs::
+
+   .. tab:: Apples
+
+      Apples are green, or sometimes red.
+
+   .. tab:: Pears
+
+      Pears are green.
+      
+   .. tab:: Oranges
+
+      Oranges are orangeeee.   
+      
+      
+
+
+
 *****************************************************
 What is Internet of Things
 *****************************************************
@@ -127,25 +145,7 @@ Go to Device Manager and add a new device. Select your **device type**  & keep t
 
 Setting up a device
 ====================
-
-.. tabs::
-
-   .. tab:: Apples
-
-      Apples are green, or sometimes red.
-
-   .. tab:: Pears
-
-      Pears are green.
-      
-   .. tab:: Oranges
-
-      Oranges are orangeeee.   
-      
-      
-      
-      
-      
+    
         
 .. tabs::
 
