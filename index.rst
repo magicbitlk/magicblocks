@@ -136,7 +136,7 @@ Setting up a device
       
    .. tab:: Oranges
 
-      Oranges are orange.   
+      Oranges are orangeeee.   
       
       
 .. raw:: html
