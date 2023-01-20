@@ -7,14 +7,21 @@
    .. tab:: Pears
 
       Pears are green.
-      
+
    .. tab:: Oranges
 
-      Oranges are orangeeee.   
+      Oranges are orange.
+      
+:::{dropdown} Dropdown title
+Dropdown content
+:::
+
+.. raw:: html
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/UaIvrDWrIWM" frameborder="0" allowfullscreen></iframe>
       
 .. image:: Images/magicblocks-device-setup.jpg
     :class: with-border with-shadow
-    :width: 800px      
+    :width: 400px      
 
 
 
