@@ -123,6 +123,17 @@ Go to Device Manager and add a new device. Select your **device type**  & keep t
 
 Setting up a device
 ====================
+
+.. tabs::
+
+   .. tab:: Apples
+
+      Apples are green, or sometimes red.
+
+   .. tab:: Pears
+
+      Pears are green.
+
 Connect your device to computer using USB cable.
 
 .. image:: Images/usb-plugging-magicbit-core.jpg
@@ -202,6 +213,8 @@ Following Blocks are available.
 -  DHT11
 -  NeoPixel
 -  Ultrasonic
+-  IR Read
+-  IR Send
 
 This block set enables you to control individual pins of the device from the playground. The functionality of each block is described below:
 
@@ -281,7 +294,21 @@ This block will read analog value of the ADC pin of the module. Similar to the d
     - Value of the pin from 0 to 4096 (12bit ADC)  {"payload": 965}
 
 
+Servo
+---------
 
+.. image:: https://github.com/magicbitlk/magicblocks/blob/63dfa1293534a211290852c2194c2a50b02fcc83/Images/Magicblocks%20servo.png
+
+
+This block will take an input between 0 and 180, and set the servo angle to that position in degrees. 
+
+- Configuration:
+    - Name: Any name desired
+    - Device ID: Select device from the drop-down menu 
+    - Pin: pin number of the Servo (Required)
+
+- Input
+    - Integer between 0 and 180.
 
 *************************
 Playground 
