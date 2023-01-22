@@ -20,7 +20,12 @@
       
 .. image:: Images/magicblocks-device-setup.jpg
     :class: with-border with-shadow
-    :width: 400px      
+    :width: 400px     
+
+.. image:: https://img.youtube.com/vi/p4vSKwN1cfI/maxresdefault.jpg
+    :alt: Getting Started
+    :target: https://www.youtube.com/watch?v=p4vSKwN1cfI 
+    :width: 400px
 
 
 
@@ -103,9 +108,6 @@ Getting Started
 
 `Watch Video <https://www.youtube.com/watch?v=p4vSKwN1cfI>`_
 
-.. image:: https://img.youtube.com/vi/p4vSKwN1cfI/maxresdefault.jpg
-    :alt: Getting Started
-    :target: https://www.youtube.com/watch?v=p4vSKwN1cfI
 
 Create Magicblocks.io Account
 ===========================================
