@@ -198,7 +198,7 @@ Setting up a device
 
         On next window enter your internet router WiFi network name (SSID) and password
 
-        .. image:: Images/setup-wifi-network.jpg
+        .. image:: Images/setup-wifi-network-magickey.jpg
 
         On next stage configure the device using USB method. If it didn’t work you can retry again or use WIFi option to configure device. You will get a message after the successful configuration.
 
@@ -221,7 +221,7 @@ Setting up a device
 
         On next window enter your internet router WiFi network name (SSID) and password
 
-        .. image:: Images/setup-wifi-network.jpg
+        .. image:: Images/setup-wifi-network-esp32.jpg
 
         On next stage configure the device using USB method. If it didn’t work you can retry again or use WIFi option to configure device. You will get a message after the successful configuration.
 
