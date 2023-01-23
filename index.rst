@@ -98,7 +98,7 @@ M5 Stack
 M5Stack is a line of modular, stackable, and portable development boards based on the ESP32 microcontroller, which are often used for IoT projects and also include additional modules for more functionality.
 
 .. image:: Images/device-choice.png
-    :width: 1200px 
+    :width: 600px 
 
 ***************
 Getting Started
